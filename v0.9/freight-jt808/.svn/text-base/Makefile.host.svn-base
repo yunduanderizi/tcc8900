@@ -1,0 +1,20 @@
+objects = ConfigManager.o LogUtility.o ConnectionManager.o SQLiteTable.o VDRRunParaTable.o GeneralTimer.o ConcreteTableBase.o SingleRowTable.o MultiRowWithUniqueIndexTable.o AudioRecordTable.o JT808MessageHandler.o VDRDeployParaTable.o JT808MessageHelper.o
+LDFLAGS = -lpthread -lsqlite3 -lboost_system -lboost_chrono -lboost_timer -lboost_program_options -lboost_locale -L/home/xingqq/build/host/boost/lib
+CPPFLAGS = -I/home/xingqq/build/tcc890x/boost/include
+
+all: $(objects) JT808Manager test testServer
+
+$(objects): %.o: %.cpp %.h
+	g++ -c $< -o $@ $(CPPFLAGS)
+
+JT808Manager: $(objects) JT808Manager.cpp
+	g++ $^ -o $@ $(LDFLAGS) $(CPPFLAGS)
+
+test: $(objects) test.cpp
+	g++ $^ -o $@ $(LDFLAGS) $(CPPFLAGS)
+
+testServer: $(objects) testServer.cpp
+	g++ $^ -o $@ $(LDFLAGS) $(CPPFLAGS)
+    
+clean:
+	rm -fr $(objects)

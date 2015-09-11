@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tcc890x_common/!svn/ver/1639/branches/innovbox/v0.9/bsManager
+END
+bsManager.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/bsManager.pro
+END
+bsManagerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/bsManagerCommon.h
+END
+bsCommunalLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/bsCommunalLock.h
+END
+bsManagerCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/bsManagerCommon.cpp
+END
+bsManagerErrCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/bsManagerErrCode.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1
+END
+error_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/error_types.h
+END
+voice.ini
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/voice.ini
+END
+parseConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/parseConfig.h
+END
+voice_setting.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/voice_setting.h
+END
+voice.v1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/voice.v1.pro
+END
+voice_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/voice_main.cpp
+END
+parseConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v1/parseConfig.cpp
+END

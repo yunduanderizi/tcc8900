@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1082/branches/innovbox/v0.9/tools/interceptty-0.6/config.h.in
+END
+test_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/test_main.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/TODO
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1082/branches/innovbox/v0.9/tools/interceptty-0.6/Makefile.am
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/common.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1082/branches/innovbox/v0.9/tools/interceptty-0.6/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/install-sh
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/common.h
+END
+nmea
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/nmea
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1082/branches/innovbox/v0.9/tools/interceptty-0.6/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1082/branches/innovbox/v0.9/tools/interceptty-0.6/Makefile.in
+END
+bsd-openpty.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/bsd-openpty.c
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/config.log
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/depcomp
+END
+bsd-openpty.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/bsd-openpty.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/config.h
+END
+interceptty.pod
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/interceptty.pod
+END
+interceptty.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/interceptty.c
+END
+nmea_stdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/nmea_stdlib.c
+END
+nmea_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/nmea_decode.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/INSTALL
+END
+nmea_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1074/branches/innovbox/v0.9/tools/interceptty-0.6/nmea_type.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/COPYING
+END
+interceptty.1
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/interceptty.1
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/NEWS
+END
+interceptty-nicedump
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/interceptty-nicedump
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/Makefile
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/mkinstalldirs
+END
+sendudp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1074/branches/innovbox/v0.9/tools/interceptty-0.6/sendudp.c
+END
+testport
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/testport
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/configure.in
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1279/branches/innovbox/v0.9/tools/interceptty-0.6/config.status
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/ChangeLog
+END
+udp_recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1074/branches/innovbox/v0.9/tools/interceptty-0.6/udp_recv.c
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/stamp-h1
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/1073/branches/innovbox/v0.9/tools/interceptty-0.6/README
+END

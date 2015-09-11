@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1164/branches/innovbox/v0.9/databaseManager
+END
+SQLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/databaseManager/SQLite.h
+END
+restoreOnStarting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/databaseManager/restoreOnStarting.cpp
+END
+SQLite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/databaseManager/SQLite.cpp
+END
+restoreOnStarting.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/databaseManager/restoreOnStarting.h
+END

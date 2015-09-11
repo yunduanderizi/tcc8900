@@ -1,0 +1,35 @@
+include(../../product.conf)
+
+TEMPLATE = app
+TARGET = bsManagerProcess
+
+QT += xml
+
+DEPENDPATH += . $$PACKAGE_DBUS_DIR/include
+DEPENDPATH += $$INNOVBOX_DIR/bsManager/message
+
+INCLUDEPATH += $$INNOVBOX_BSMANAGER_SRC_DIR
+INCLUDEPATH += $$INNOVBOX_BSMANAGER_SRC_DIR/message
+INCLUDEPATH += $$INNOVBOX_BSMANAGER_SRC_DIR/server
+INCLUDEPATH += $$PACKAGE_DBUS_DIR/include
+INCLUDEPATH += $$INNOVBOX_WM_INSTALL_DIR/include
+ 
+LIBS += -L$$INNOVBOX_WM_INSTALL_DIR/lib -lwm
+LIBS += -L$$PACKAGE_DBUS_DIR/lib -ldbus-1 -lQtDBus
+!CONFIG(PC){
+LIBS += -L$$PACKAGE_TSLIB_DIR/lib -lts
+}
+LIBS += -L$$INNOVBOX_BSMANAGER_SRC_DIR -lbsManager
+
+SOURCES += bsManagerProcess_main.cpp
+
+HEADERS += 
+
+RESOURCES +=
+
+QMAKE_POST_LINK =make install
+
+target.path= $$INNOVBOX_BSMANAGER_INSTALL_DIR/bin
+INSTALLS += target 
+
+QMAKE_DISTCLEAN += $$target.path/*

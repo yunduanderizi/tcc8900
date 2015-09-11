@@ -1,0 +1,8 @@
+#!/bin/sh
+
+umount /nand3
+flash_eraseall /dev/mtd1
+mount -t yaffs2 /dev/mtdblock1 /nand3
+cp -arf /application/data_backup/* /nand3
+sync
+

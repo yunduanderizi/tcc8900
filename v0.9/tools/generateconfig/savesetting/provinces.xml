@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="GBK" ?>
+<Provinces>
+   <Province ID="1">北京市</Province>
+   <Province ID="2">天津市</Province>
+   <Province ID="3" >河北省</Province>
+   <Province ID="4" >山西省</Province>  
+   <Province ID="5" >内蒙古自治区</Province>
+   <Province ID="6" >辽宁省</Province>
+   <Province ID="7" >吉林省</Province>
+   <Province ID="8" >黑龙江省</Province>
+	<Province ID="9" >上海市</Province>
+	<Province ID="10" >江苏省</Province>
+	<Province ID="11" >浙江省</Province>
+	<Province ID="12" >安徽省</Province>
+	<Province ID="13" >福建省</Province>
+	<Province ID="14" >江西省</Province>
+	<Province ID="15" >山东省</Province>
+	<Province ID="16" >河南省</Province>
+	<Province ID="17" >湖北省</Province>
+	<Province ID="18" >湖南省</Province>
+	<Province ID="19" >广东省</Province>
+	<Province ID="20" >广西壮族自治区</Province>
+	<Province ID="21" >海南省</Province>
+	<Province ID="22" >重庆市</Province>
+	<Province ID="23" >四川省</Province>
+	<Province ID="24" >贵州省</Province>
+	<Province ID="25" >云南省</Province>
+	<Province ID="26" >西藏自治区</Province>
+	<Province ID="27" >陕西省</Province>
+	<Province ID="28" >甘肃省</Province>
+	<Province ID="29" >青海省</Province>		
+	<Province ID="30" >宁夏回族自治区</Province>
+	<Province ID="31" >新疆维吾尔自治区</Province>
+	<Province ID="34" >台湾省</Province>
+	<Province ID="32" >香港特别行政区</Province>
+	<Province ID="33" >澳门特别行政区</Province>
+	
+		<beijing ID="18">昌平区 110114</beijing>
+		<beijing ID="19">朝阳区 110105</beijing> 
+		<beijing ID="20">崇文区 110103</beijing> 
+		<beijing ID="21">大兴区 110115</beijing> 
+		<beijing ID="22">东城区 110101</beijing> 
+		<beijing ID="23">房山区 110111</beijing> 
+		<beijing ID="24">丰台区 110106</beijing> 
+		<beijing ID="25">海淀区 110108</beijing> 
+		<beijing ID="26">怀柔区 110116</beijing> 
+		<beijing ID="27">门头沟区 110109</beijing> 
+		<beijing ID="28">密云县 110228</beijing> 
+		<beijing ID="29">平谷区 110117</beijing> 
+		<beijing ID="30">石景山区 110107</beijing> 
+		<beijing ID="31">顺义区 110113</beijing> 
+		<beijing ID="32">通州区 110112</beijing> 
+		<beijing ID="33">西城区 110102</beijing> 
+		<beijing ID="34">宣武区 110104</beijing> 
+		<beijing ID="35">延庆县 110229</beijing> 
+		<tianjing ID="371">和平区 120101</tianjing> 
+		<tianjing ID="372">河东区 120102</tianjing> 
+		<tianjing ID="373">河西区 120103</tianjing> 
+		<tianjing ID="374">南开区 120104</tianjing> 
+		<tianjing ID="375">河北区 120105</tianjing> 
+		<tianjing ID="376">红桥区 120106</tianjing> 
+		<tianjing ID="377">塘沽区 120107</tianjing> 
+		<tianjing ID="378">汉沽区 120108</tianjing> 
+		<tianjing ID="379">大港区 120109</tianjing> 
+		<tianjing ID="380">东丽区 120110</tianjing> 
+		<tianjing ID="381">西青区 120111</tianjing> 
+		<tianjing ID="382">津南区 120112</tianjing> 
+		<tianjing ID="383">北辰区 120113</tianjing> 
+		<tianjing ID="384">武清区 120114</tianjing> 
+		<tianjing ID="385">宝坻区 120115</tianjing> 
+		<tianjing ID="386">宁河县 120221</tianjing> 
+		<tianjing ID="387">静海县 120223</tianjing> 
+		<tianjing ID="388">蓟县 120225</tianjing>
+		<hebei ID="152">保定市 130600</hebei> 
+		<hebei ID="153">沧州市 130900</hebei> 
+		<hebei ID="154">承德市 130800</hebei> 
+		<hebei ID="155">邯郸市 130400</hebei> 
+		<hebei ID="156">衡水市 131100</hebei> 
+		<hebei ID="157">廊坊市 131000</hebei> 
+		<hebei ID="158">秦皇岛市 130300</hebei> 
+		<hebei ID="159">石家庄市 130100</hebei> 
+		<hebei ID="160">唐山市 130200</hebei> 
+		<hebei ID="161">邢台市 130500</hebei> 
+		<hebei ID="162">张家口市 130700</hebei> 
+
+		<shanxi ID="309">长治市 140400</shanxi> 
+		<shanxi ID="311">大同市 140200</shanxi> 
+		<shanxi ID="312">晋城市 140500</shanxi> 
+		<shanxi ID="313">晋中市 140700</shanxi> 
+		<shanxi ID="314">临汾市 141000</shanxi> 
+		<shanxi ID="315">吕梁市 142300</shanxi> 
+		<shanxi ID="316">朔州市 140600</shanxi> 
+		<shanxi ID="317">太原市 140100</shanxi> 
+		<shanxi ID="318">忻州市 140900</shanxi> 
+		<shanxi ID="319">阳泉市 140300</shanxi> 
+		<shanxi ID="320">运城市 140800</shanxi>
+
+		<neimenggu ID="267">阿拉善盟 152900</neimenggu> 
+		<neimenggu ID="268">巴彦淖尔市 152800</neimenggu> 
+		<neimenggu ID="269">包头市 150200</neimenggu> 
+		<neimenggu ID="270">赤峰市 150400</neimenggu> 
+		<neimenggu ID="271">鄂尔多斯市 150600</neimenggu> 
+		<neimenggu ID="272">呼和浩特市 150100</neimenggu> 
+		<neimenggu ID="273">呼伦贝尔市 150700</neimenggu> 
+		<neimenggu ID="274">通辽市 150500</neimenggu> 
+		<neimenggu ID="275">乌海市 150300</neimenggu> 
+		<neimenggu ID="276">乌兰察布市 152600</neimenggu> 
+		<neimenggu ID="277">锡林郭勒盟 152500</neimenggu> 
+		<neimenggu ID="278">兴安盟 152200</neimenggu> 
+
+		<liaoning ID="253">鞍山市 210300</liaoning> 
+		<liaoning ID="254">本溪市 210500</liaoning> 
+		<liaoning ID="255">朝阳市 211300</liaoning> 
+		<liaoning ID="256">大连市 210200</liaoning> 
+		<liaoning ID="257">丹东市 210600</liaoning> 
+		<liaoning ID="258">抚顺市 210400</liaoning> 
+		<liaoning ID="259">阜新市 210900</liaoning> 
+		<liaoning ID="260">葫芦岛市 211400</liaoning> 
+		<liaoning ID="261">锦州市 210700</liaoning> 
+		<liaoning ID="262">辽阳市 211000</liaoning> 
+		<liaoning ID="263">盘锦市 211100</liaoning> 
+		<liaoning ID="264">沈阳市 210100</liaoning> 
+		<liaoning ID="265">铁岭市 211200</liaoning> 
+		<liaoning ID="266">营口市 210800</liaoning> 
+
+		<jilin ID="220">白城市 220800</jilin> 
+		<jilin ID="221">白山市 220600</jilin> 
+		<jilin ID="222">长春市 220100</jilin> 
+		<jilin ID="223">吉林市 220200</jilin> 
+		<jilin ID="224">辽源市 220400</jilin> 
+		<jilin ID="225">四平市 220300</jilin> 
+		<jilin ID="226">松原市 220700</jilin> 
+		<jilin ID="227">通化市 220500</jilin> 
+		<jilin ID="228">延边朝鲜族自治州 222400</jilin> 
+
+		<heilongjiang ID="180">大庆市 230600</heilongjiang> 
+		<heilongjiang ID="181">大兴安岭地区 232700</heilongjiang> 
+		<heilongjiang ID="182">哈尔滨市 230100</heilongjiang> 
+		<heilongjiang ID="183">鹤岗市 230400</heilongjiang> 
+		<heilongjiang ID="184">黑河市 231100</heilongjiang> 
+		<heilongjiang ID="185">鸡西市 230300</heilongjiang> 
+		<heilongjiang ID="186">佳木斯市 230800</heilongjiang> 
+		<heilongjiang ID="187">牡丹江市 231000</heilongjiang> 
+		<heilongjiang ID="188">七台河市 230900</heilongjiang> 
+		<heilongjiang ID="189">齐齐哈尔市 230200</heilongjiang> 
+		<heilongjiang ID="190">双鸭山市 230500</heilongjiang> 
+		<heilongjiang ID="191">绥化市 231200</heilongjiang> 
+		<heilongjiang ID="192">伊春市 230700</heilongjiang>  
+
+		<shanghai ID="331">宝山区 310113</shanghai> 
+		<shanghai ID="332">长宁区 310104</shanghai> 
+		<shanghai ID="333">崇明县 310230</shanghai> 
+		<shanghai ID="334">奉贤区 310119</shanghai> 
+		<shanghai ID="335">虹口区 310108</shanghai> 
+		<shanghai ID="336">黄浦区 310101</shanghai> 
+		<shanghai ID="337">嘉定区 310114</shanghai> 
+		<shanghai ID="338">金山区 310116</shanghai> 
+		<shanghai ID="339">静安区 310105</shanghai> 
+		<shanghai ID="340">卢湾区 310102</shanghai> 
+		<shanghai ID="341">闵行区 310112</shanghai> 
+		<shanghai ID="342">南汇区 310118</shanghai> 
+		<shanghai ID="343">浦东新区 310115</shanghai> 
+		<shanghai ID="344">普陀区 310106</shanghai> 
+		<shanghai ID="345">青浦区 310117</shanghai> 
+		<shanghai ID="346">松江区 310112</shanghai> 
+		<shanghai ID="347">徐汇区 310103</shanghai> 
+		<shanghai ID="348">杨浦区 310109</shanghai> 
+		<shanghai ID="349">闸北区 310107</shanghai> 
+
+		<jiangsu ID="229">常州市 320400</jiangsu> 
+		<jiangsu ID="230">淮安市 320800</jiangsu> 
+		<jiangsu ID="231">连云港市 320700</jiangsu> 
+		<jiangsu ID="232">南京市 320100</jiangsu> 
+		<jiangsu ID="233">南通市 320600</jiangsu> 
+		<jiangsu ID="234">苏州市 320500</jiangsu> 
+		<jiangsu ID="235">宿迁市 321300</jiangsu> 
+		<jiangsu ID="236">泰州市 321200</jiangsu> 
+		<jiangsu ID="237">无锡市 320200</jiangsu> 
+		<jiangsu ID="238">徐州市 320300</jiangsu> 
+		<jiangsu ID="239">盐城市 320900</jiangsu> 
+		<jiangsu ID="240">扬州市 321000</jiangsu> 
+		<jiangsu ID="241">镇江市 321100</jiangsu>  
+
+		<zhejiang ID="426">杭州市 330100</zhejiang> 
+		<zhejiang ID="427">湖州市 330500</zhejiang> 
+		<zhejiang ID="428">嘉兴市 330400</zhejiang> 
+		<zhejiang ID="429">金华市 330700</zhejiang> 
+		<zhejiang ID="430">丽水市 331100</zhejiang> 
+		<zhejiang ID="431">宁波市 330200</zhejiang> 
+		<zhejiang ID="432">衢州市 330800</zhejiang> 
+		<zhejiang ID="433">绍兴市 330600</zhejiang> 
+		<zhejiang ID="434">台州市 331000</zhejiang> 
+		<zhejiang ID="435">温州市 330300</zhejiang> 
+		<zhejiang ID="436">舟山市 330900</zhejiang>
+
+		<anhui ID="2">蚌埠市 340300</anhui> 
+		<anhui ID="3">亳州市 341600</anhui> 
+		<anhui ID="4">巢湖市 341400</anhui> 
+		<anhui ID="5">池州市 341700</anhui> 
+		<anhui ID="6">滁州市 341100</anhui> 
+		<anhui ID="7">阜阳市 341200</anhui> 
+		<anhui ID="8">合肥市 340100</anhui> 
+		<anhui ID="9">淮北市 340600</anhui> 
+		<anhui ID="10">淮南市 340400</anhui> 
+		<anhui ID="11">黄山市 340900</anhui> 
+		<anhui ID="12">六安市 341500</anhui> 
+		<anhui ID="13">马鞍山市 340500</anhui> 
+		<anhui ID="14">宿州市 341300</anhui> 
+		<anhui ID="15">铜陵市 340700</anhui> 
+		<anhui ID="16">安庆市 340800</anhui> 
+		<anhui ID="17">芜湖市 340200</anhui> 
+		<anhui ID="18">宣城市 341800</anhui> 
+
+		
+		<fujian ID="77">福州市 350100</fujian> 
+		<fujian ID="80">龙岩市 350800</fujian> 
+		<fujian ID="81">南平市 350700</fujian> 
+		<fujian ID="82">宁德市 351000</fujian> 
+		<fujian ID="83">莆田市 350300</fujian> 
+		<fujian ID="84">泉州市 350500</fujian> 
+		<fujian ID="85">三明市 350400</fujian> 
+		<fujian ID="86">厦门市 350200</fujian> 	
+		<fujian ID="89">漳州市 350600</fujian>  
+
+		<jiangxi ID="242">抚州市 361000</jiangxi> 
+		<jiangxi ID="243">赣州市 360700</jiangxi> 
+		<jiangxi ID="244">吉安市 360800</jiangxi> 
+		<jiangxi ID="245">景德镇市 360200</jiangxi> 
+		<jiangxi ID="246">九江市 360400</jiangxi> 
+		<jiangxi ID="247">南昌市 360100</jiangxi> 
+		<jiangxi ID="248">萍乡市 360300</jiangxi> 
+		<jiangxi ID="249">上饶市 361100</jiangxi> 
+		<jiangxi ID="250">新余市 360500</jiangxi> 
+		<jiangxi ID="251">宜春市 360900</jiangxi> 
+		<jiangxi ID="252">鹰潭市 360600</jiangxi>   
+
+		<shandong ID="292">滨州市 271600</shandong> 
+		<shandong ID="293">德州市 271400</shandong> 
+		<shandong ID="294">东营市 270500</shandong> 
+		<shandong ID="295">菏泽市 271700</shandong> 
+		<shandong ID="296">济南市 270100</shandong> 
+		<shandong ID="297">济宁市 270800</shandong> 
+		<shandong ID="298">莱芜市 271200</shandong> 
+		<shandong ID="299">聊城市 271500</shandong> 
+		<shandong ID="300">临沂市 271300</shandong> 
+		<shandong ID="301">青岛市 270200</shandong> 
+		<shandong ID="302">日照市 271100</shandong> 
+		<shandong ID="303">泰安市 270900</shandong> 
+		<shandong ID="304">威海市 271000</shandong> 
+		<shandong ID="305">潍坊市 270700</shandong> 
+		<shandong ID="306">烟台市 270600</shandong> 
+		<shandong ID="307">枣庄市 270400</shandong> 
+		<shandong ID="308">淄博市 270300</shandong>
+  
+
+		<henan ID="163">安阳市 410500</henan> 
+		<henan ID="164">鹤壁市 410600</henan> 
+		<henan ID="165">焦作市 410800</henan> 
+		<henan ID="166">开封市 410200</henan> 
+		<henan ID="167">洛阳市 410300</henan> 
+		<henan ID="168">漯河市 411100</henan> 
+		<henan ID="169">南阳市 411300</henan> 
+		<henan ID="170">平顶山市 410400</henan> 
+		<henan ID="171">濮阳市 410900</henan> 
+		<henan ID="172">三门峡市 411200</henan> 
+		<henan ID="173">商丘市 411400</henan> 
+		<henan ID="174">新乡市 410700</henan> 
+		<henan ID="175">信阳市 411500</henan> 
+		<henan ID="176">许昌市 411000</henan> 
+		<henan ID="177">郑州市 410100</henan> 
+		<henan ID="178">周口市 411600</henan> 
+		<henan ID="179">驻马店市 411700</henan> 
+
+		<hubei ID="193">鄂州市 420600</hubei> 
+		<hubei ID="195">黄冈市 421000</hubei> 
+		<hubei ID="196">黄石市 420200</hubei> 
+		<hubei ID="197">荆门市 420700</hubei> 
+		<hubei ID="198">荆州市 420900</hubei> 
+		<hubei ID="199">十堰市 420300</hubei> 
+		<hubei ID="200">随州市 421300</hubei> 
+		<hubei ID="201">武汉市 420100</hubei> 
+		<hubei ID="202">咸宁市 421100</hubei> 
+		<hubei ID="203">襄樊市 420500</hubei> 
+		<hubei ID="204">孝感市 420800</hubei> 
+		<hubei ID="205">宜昌市 420400</hubei> 
+		<hubei ID="194">恩施土家族苗族自治州 422800</hubei> 
+
+		<hunan ID="206">长沙市 430100</hunan> 
+		<hunan ID="207">常德市 430700</hunan> 
+		<hunan ID="208">郴州市 431000</hunan> 
+		<hunan ID="209">衡阳市 430400</hunan> 
+		<hunan ID="210">怀化市 431200</hunan> 
+		<hunan ID="211">娄底市 431300</hunan> 
+		<hunan ID="212">邵阳市 430500</hunan> 
+		<hunan ID="213">湘潭市 430300</hunan> 
+		<hunan ID="214">湘西土家族苗族自治州 433100</hunan> 
+		<hunan ID="215">益阳市 430900</hunan> 
+		<hunan ID="216">永州市 431100</hunan> 
+		<hunan ID="217">岳阳市 430600</hunan> 
+		<hunan ID="218">张家界市 430800</hunan> 
+		<hunan ID="219">株洲市 430200</hunan> 
+
+		<guangdong ID="104">潮州市 445100</guangdong> 
+		<guangdong ID="105">东莞市 441900</guangdong> 
+		<guangdong ID="106">佛山市 440600</guangdong> 
+		<guangdong ID="107">广州市 440100</guangdong> 
+		<guangdong ID="108">河源市 441600</guangdong> 
+		<guangdong ID="109">惠州市 441300</guangdong> 
+		<guangdong ID="110">江门市 440700</guangdong> 
+		<guangdong ID="111">揭阳市 445200</guangdong> 
+		<guangdong ID="112">茂名市 440900</guangdong> 
+		<guangdong ID="113">梅州市 441400</guangdong> 
+		<guangdong ID="114">清远市 441800</guangdong> 
+		<guangdong ID="115">汕头市 440500</guangdong> 
+		<guangdong ID="116">汕尾市 441500</guangdong> 
+		<guangdong ID="117">韶关市 440200</guangdong> 
+		<guangdong ID="118">深圳市 440300</guangdong> 
+		<guangdong ID="119">阳江市 441700</guangdong> 
+		<guangdong ID="120">云浮市 445300</guangdong> 
+		<guangdong ID="121">湛江市 440800</guangdong> 
+		<guangdong ID="122">肇庆市 441200</guangdong> 
+		<guangdong ID="123">中山市 442000</guangdong> 
+		<guangdong ID="124">珠海市 440400</guangdong> 
+
+		<guangxi ID="125">百色市 2600</guangxi> 
+		<guangxi ID="126">北海市 0500</guangxi> 
+		<guangxi ID="128">防城港市 0600</guangxi> 
+		<guangxi ID="129">贵港市 0800</guangxi> 
+		<guangxi ID="130">桂林市 0300</guangxi> 
+		<guangxi ID="131">河池市 2700</guangxi> 
+		<guangxi ID="132">贺州市 2400</guangxi> 
+		<guangxi ID="134">柳州市 0200</guangxi> 
+		<guangxi ID="135">南宁市 0100</guangxi> 
+		<guangxi ID="136">钦州市 0700</guangxi> 
+		<guangxi ID="137">梧州市 0400</guangxi> 
+		<guangxi ID="138">玉林市 0900</guangxi> 
+
+		<hainan ID="148">海口市 0100</hainan> 
+		<hainan ID="149">五指山市 9001</hainan> 
+		<hainan ID="150">三亚市 0200</hainan>  
+		
+		<chongqing ID="36">巴南区 0113</chongqing> 
+		<chongqing ID="37">北碚区 0109</chongqing> 
+		<chongqing ID="38">长寿区 0115</chongqing> 
+		<chongqing ID="39">大渡口区 0104</chongqing> 
+		<chongqing ID="40">涪陵区 0102</chongqing> 
+		<chongqing ID="41">江北区 0105</chongqing> 
+		<chongqing ID="42">九龙坡区 0107</chongqing> 
+		<chongqing ID="43">南岸区 0108</chongqing> 
+		<chongqing ID="44">黔江区 0114</chongqing> 
+		<chongqing ID="45">沙坪坝区 0106</chongqing> 
+		<chongqing ID="46">双桥区 0111</chongqing> 
+		<chongqing ID="47">万盛区 0110</chongqing> 
+		<chongqing ID="48">万州区 0101</chongqing> 
+		<chongqing ID="49">渝北区 0112</chongqing> 
+		<chongqing ID="50">渝中区 0103</chongqing> 	
+		
+		<sichuan ID="352">成都市 0100</sichuan>  
+		<sichuan ID="354">德阳市 0600</sichuan> 
+		<sichuan ID="351">巴中市 1900</sichuan> 
+		<sichuan ID="356">广安市 1500</sichuan> 
+		<sichuan ID="357">广元市 0800</sichuan> 
+		<sichuan ID="358">乐山市 1100</sichuan>  
+		<sichuan ID="360">泸州市 0500</sichuan> 
+		<sichuan ID="361">眉山市 1300</sichuan> 
+		<sichuan ID="362">绵阳市 0700</sichuan> 
+		<sichuan ID="363">内江市 1000</sichuan> 
+		<sichuan ID="364">南充市 1200</sichuan> 
+		<sichuan ID="365">攀枝花市 0400</sichuan> 
+		<sichuan ID="366">遂宁市 0900</sichuan> 
+		<sichuan ID="367">雅安市 1800</sichuan> 
+		<sichuan ID="368">宜宾市 1400</sichuan> 
+		<sichuan ID="369">资阳市 2000</sichuan> 
+		<sichuan ID="370">自贡市 0300</sichuan> 
+		<sichuan ID="355">甘孜藏族自治州 3300</sichuan> 
+		<sichuan ID="350">阿坝藏族羌族自治州 3200</sichuan> 
+		<sichuan ID="359">凉山彝族自治州 3400</sichuan>
+		
+		<guizhou ID="139">安顺市 0400</guizhou> 
+		<guizhou ID="140">毕节地区 2400</guizhou> 
+		<guizhou ID="141">贵阳市 0100</guizhou> 
+		<guizhou ID="142">六盘水市 0200</guizhou> 
+		<guizhou ID="143">黔东南苗族侗族自治州 2600</guizhou> 
+		<guizhou ID="144">黔南布依族苗族自治州 2700</guizhou> 
+		<guizhou ID="145">黔西南布依族苗族自治州 2300</guizhou> 
+		<guizhou ID="146">铜仁地区 2200</guizhou> 
+		<guizhou ID="147">遵义市 0300</guizhou> 
+  
+		<yunnan ID="410">保山市 0500</yunnan> 
+		<yunnan ID="411">楚雄彝族自治州 2300</yunnan> 
+		<yunnan ID="412">大理白族自治州 2900</yunnan> 
+		<yunnan ID="413">德宏傣族景颇族自治州 3100</yunnan> 
+		<yunnan ID="414">迪庆藏族自治州 3400</yunnan> 
+		<yunnan ID="415">红河哈尼族彝族自治州 2500</yunnan> 
+		<yunnan ID="416">昆明市 0100</yunnan> 
+		<yunnan ID="417">丽江市 3200</yunnan> 
+		<yunnan ID="418">临沧市 3500</yunnan> 
+		<yunnan ID="419">怒江傈傈族自治州 3300</yunnan> 
+		<yunnan ID="420">曲靖市 0300</yunnan> 
+		<yunnan ID="421">思茅市 2700</yunnan> 
+		<yunnan ID="422">文山壮族苗族自治州 2600</yunnan> 
+		<yunnan ID="423">西双版纳傣族自治州 2800</yunnan> 
+		<yunnan ID="424">玉溪市 0400</yunnan> 
+		<yunnan ID="425">昭通市 0600</yunnan> 
+  
+		<xizang ID="389">阿里地区 2500</xizang> 
+		<xizang ID="390">昌都地区 2100</xizang> 
+		<xizang ID="391">拉萨市 0100</xizang> 
+		<xizang ID="392">林芝地区 2600</xizang> 
+		<xizang ID="393">那曲地区 2400</xizang> 
+		<xizang ID="394">日喀则地区 2300</xizang> 
+		<xizang ID="395">山南地区 2200</xizang> 
+  
+		<sanxi ID="321">安康市 0900</sanxi> 
+		<sanxi ID="322">宝鸡市 0300</sanxi> 
+		<sanxi ID="323">汉中市 0700</sanxi> 
+		<sanxi ID="324">商洛市 1000</sanxi> 
+		<sanxi ID="325">铜川市 0200</sanxi> 
+		<sanxi ID="326">渭南市 0500</sanxi> 
+		<sanxi ID="327">西安市 0100</sanxi> 
+		<sanxi ID="328">咸阳市 0400</sanxi> 
+		<sanxi ID="329">延安市 0600</sanxi> 
+		<sanxi ID="330">榆林市 0800</sanxi> 
+  
+		<gansu ID="90">白银市 0400</gansu> 
+		<gansu ID="91">定西市 2400</gansu> 
+		<gansu ID="92">甘南州 3000</gansu>  
+		<gansu ID="94">金昌市 0300</gansu> 
+		<gansu ID="95">酒泉市 2100</gansu> 
+		<gansu ID="96">兰州市 0100</gansu> 
+		<gansu ID="96">嘉峪关市 0200</gansu> 
+		<gansu ID="97">临夏州 2900</gansu> 
+		<gansu ID="98">陇南市 2600</gansu> 
+		<gansu ID="99">平凉市 2700</gansu> 
+		<gansu ID="100">庆阳市 2800</gansu> 
+		<gansu ID="101">天水市 0500</gansu> 
+		<gansu ID="102">武威市 0600</gansu> 
+		<gansu ID="103">张掖市 2200</gansu> 
+  
+		<qinghai ID="284">果洛州 2600</qinghai> 
+		<qinghai ID="285">海北州 2200</qinghai> 
+		<qinghai ID="286">海东地区 2100</qinghai> 
+		<qinghai ID="288">海西州 2800</qinghai> 
+		<qinghai ID="288">海南州 2500</qinghai> 
+		<qinghai ID="289">黄南州 2300</qinghai> 
+		<qinghai ID="290">西宁市 0100</qinghai> 
+		<qinghai ID="291">玉树州 2700</qinghai>
+  
+		<ningxia ID="279">固原市 0400</ningxia> 
+		<ningxia ID="280">石嘴山市 0200</ningxia> 
+		<ningxia ID="281">吴忠市 0300</ningxia> 
+		<ningxia ID="440">银川市 0100</ningxia> 
+ 
+		<xinjiang ID="396">阿克苏地区 2900</xinjiang> 
+		<xinjiang ID="397">阿勒泰地区 4300</xinjiang> 
+		<xinjiang ID="398">巴音郭楞州 2800</xinjiang> 
+		<xinjiang ID="399">博尔塔拉蒙古自治州 2700</xinjiang> 
+		<xinjiang ID="400">昌吉州 2300</xinjiang> 
+		<xinjiang ID="401">哈密地区 2200</xinjiang> 
+		<xinjiang ID="402">和田地区 3200</xinjiang> 
+		<xinjiang ID="403">喀什地区 3100</xinjiang> 
+		<xinjiang ID="404">克拉玛依市 0200</xinjiang> 
+		<xinjiang ID="405">石河子市 9001</xinjiang> 
+		<xinjiang ID="406">塔城地区 4200</xinjiang> 
+		<xinjiang ID="407">吐鲁番地区 2100</xinjiang> 
+		<xinjiang ID="408">乌鲁木齐市 0100</xinjiang> 
+		<xinjiang ID="409">伊犁州 4000</xinjiang> 
+  
+		<taiwan ID="437">台湾 0000</taiwan>
+		<xianggang ID="438">香港 0000</xianggang> 
+  
+		<aomen ID="439">澳门 0000</aomen> 
+ 
+		
+		<proviceid>11</proviceid>
+		<proviceid>12</proviceid>
+		<proviceid>13</proviceid>
+		<proviceid>14</proviceid>
+		<proviceid>15</proviceid>
+		<proviceid>21</proviceid>
+		<proviceid>22</proviceid>
+		<proviceid>23</proviceid>
+		<proviceid>31</proviceid>
+		<proviceid>32</proviceid>
+		<proviceid>33</proviceid>
+		<proviceid>34</proviceid>
+		<proviceid>35</proviceid>
+		<proviceid>36</proviceid>
+		<proviceid>37</proviceid>
+		<proviceid>41</proviceid>
+		<proviceid>42</proviceid>
+		<proviceid>43</proviceid>
+		<proviceid>44</proviceid>
+		<proviceid>45</proviceid>
+		<proviceid>46</proviceid>
+		<proviceid>50</proviceid>
+		<proviceid>51</proviceid>
+		<proviceid>52</proviceid>
+		<proviceid>53</proviceid>
+		<proviceid>54</proviceid>
+		<proviceid>61</proviceid>
+		<proviceid>62</proviceid>
+		<proviceid>63</proviceid>
+		<proviceid>64</proviceid>
+		<proviceid>65</proviceid>
+		<proviceid>71</proviceid>
+		<proviceid>81</proviceid>
+		<proviceid>82</proviceid>
+
+</Provinces>

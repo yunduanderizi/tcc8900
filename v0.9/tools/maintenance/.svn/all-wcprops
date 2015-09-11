@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/1432/branches/innovbox/v0.9/tools/maintenance
+END
+readtuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/853/branches/innovbox/v0.9/tools/maintenance/readtuid.cpp
+END
+importsetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/802/branches/innovbox/v0.9/tools/maintenance/importsetting.cpp
+END
+readtuid-new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1432/branches/innovbox/v0.9/tools/maintenance/readtuid-new.cpp
+END
+generatemac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/tools/maintenance/generatemac.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1432/branches/innovbox/v0.9/tools/maintenance/Makefile
+END
+select_start.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/tools/maintenance/select_start.c
+END

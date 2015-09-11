@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2
+END
+Record.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/Record.cpp
+END
+AiPlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiPlay.cpp
+END
+KeyWordsMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/KeyWordsMgr.h
+END
+Record.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/Record.h
+END
+AiPlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiPlay.h
+END
+voiceDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/voiceDefine.h
+END
+AiBsTalk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiBsTalk.cpp
+END
+AiBsTalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiBsTalk.h
+END
+InputControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/InputControl.cpp
+END
+myDbus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/myDbus.cpp
+END
+InputControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/InputControl.h
+END
+AiTalk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiTalk.cpp
+END
+myDbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/myDbus.h
+END
+voice.v2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/voice.v2.pro
+END
+voice_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/voice_main.cpp
+END
+AiTalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/AiTalk.h
+END
+KeyWordsMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/voice.v2/KeyWordsMgr.cpp
+END

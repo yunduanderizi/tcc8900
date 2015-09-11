@@ -1,0 +1,145 @@
+
+[identify word]						#识别关键词设置，注意:最大只识别到word200
+word0 = 车况监控
+KeyCode0 = 59						#KEY_F1
+
+word1 = 打开导航
+KeyCode1 = 60						#KEY_F2
+
+word2 = 打开音乐
+KeyCode2 = 61						#KEY_F3
+
+word3 = 打开电影
+KeyCode3 = 62						#KEY_F4
+
+word4 = 打开图片
+KeyCode4 = 63						#KEY_F5
+
+word5 = 打开文本
+KeyCode5 = 64						#KEY_F6
+
+word6 = 打开收音机
+KeyCode6 = 65						#KEY_F7
+
+word7 = 打开电视
+KeyCode7 = 66						#KEY_F8
+
+word8 = 全屏
+KeyCode8 = 67						#KEY_F9
+
+word9 = 上一个
+KeyCode9 = 68						#KEY_F10
+
+word10 = 下一个
+KeyCode10 = 23					#KEY_I
+
+word11 = 播放
+KeyCode11 = 207					#KEY_PLAY
+
+word12 = 暂停
+KeyCode12= 164					#KEY_PLAYPAUSE
+
+word13 = 停止
+KeyCode13 = 128					#KEY_STOP
+
+word14 = 增大音量
+KeyCode14 = 4						#KEY_3
+
+word15 = 减小音量
+KeyCode15 = 3						#KEY_2
+
+word16 = 一键通
+KeyCode16 = 2						#KEY_1
+
+word17 = GPS
+KeyCode17 = 60					#KEY_F2
+
+word18 = 导航
+KeyCode18 = 60					#KEY_F2
+
+word19 = 电话
+KeyCode19 = 30					#KEY_A
+
+word20 = 打开电话
+KeyCode20 = 30					#KEY_A
+
+word21 = 呼叫
+KeyCode21 = 48					#KEY_B
+
+word22 = 拨打
+KeyCode22 = 48					#KEY_B
+
+word23 = 收音机
+KeyCode23 = 65					#KEY_F7
+
+word24 = FM
+KeyCode24 = 46					#KEY_C
+
+word25 = 调频
+KeyCode25 = 32					#KEY_D
+
+word26 = AM
+KeyCode26 = 18					#KEY_E
+
+word27 = 电影
+KeyCode27 = 62					#KEY_F4
+
+word28 = 播放电影
+KeyCode29 = 62					#KEY_F4
+
+word30 = 音乐
+KeyCode30 = 61					#KEY_F3
+
+word31 = 播放音乐
+KeyCode31 = 61					#KEY_F3
+
+word32 = 网络收音机
+KeyCode32 = 33					#KEY_F
+
+word33 = 新闻
+KeyCode33 = 34					#KEY_G
+
+word34 = 播放新闻
+KeyCode34 = 34					#KEY_G
+
+word35 = 天气
+KeyCode35 = 35					#KEY_H
+
+word36 = 天气预报
+KeyCode36 = 35					#KEY_H
+
+word37 = 上一首
+KeyCode37 = 68					#KEY_F10
+
+word38 = 下一首
+KeyCode38 = 23					#KEY_I
+
+word39 = 上一
+KeyCode39 = 68					#KEY_F10
+
+word40 = 下一
+KeyCode40 = 23					#KEY_I
+
+word41 = 车况
+KeyCode41 = 59					#KEY_F1
+
+word42 = 车况报告
+KeyCode42 = 59					#KEY_F1
+
+word43 = 救援
+KeyCode43 = 36					#KEY_J
+
+word44 = 紧急救援
+KeyCode44 = 36					#KEY_J
+
+word45 = 诊断
+KeyCode45 = 37					#KEY_K
+
+word46 = 远程诊断
+KeyCode46 = 37					#KEY_K
+
+word47 = 路况
+KeyCode47 = 38					#KEY_L
+
+word48 = 交通公告
+KeyCode48 = 50					#KEY_M

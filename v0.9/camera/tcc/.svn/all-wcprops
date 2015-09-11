@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc
+END
+viqe_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/viqe_lib.c
+END
+Virtual.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/Virtual.h
+END
+viqe_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/viqe_cmd.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/common.h
+END
+viqe_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/viqe_lib.h
+END
+triangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/triangle.c
+END
+vo_tcc89fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/vo_tcc89fb.c
+END
+dev_viqe.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/dev_viqe.h
+END
+tccfb_ioctl_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tccfb_ioctl_code.h
+END
+test_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/test_util.c
+END
+tcc_viqe_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tcc_viqe_interface.c
+END
+vo_tcc89fb-712.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/vo_tcc89fb-712.c
+END
+gamut_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/gamut_map.h
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/test_util.h
+END
+tcc_viqe_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tcc_viqe_interface.h
+END
+vpu_clk_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/vpu_clk_ctrl.c
+END
+ioctl_ckcstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/ioctl_ckcstr.h
+END
+TCC89x_Structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/TCC89x_Structures.h
+END
+vpu_clk_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/vpu_clk_ctrl.h
+END
+ioctl_ckc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/ioctl_ckc.h
+END
+TCC_VPU_CODEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/TCC_VPU_CODEC.h
+END
+sys_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/sys_memory.c
+END
+sys_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/sys_memory.h
+END
+M2Mscaler_Video.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/M2Mscaler_Video.c
+END
+gamut_map_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/gamut_map_internal.h
+END
+TCCUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/TCCUtil.h
+END
+tccfb_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tccfb_ioctl.h
+END
+matrix_inv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/matrix_inv.c
+END
+M2Mscaler_Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/M2Mscaler_Video.h
+END
+gamut_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/gamut_main.c
+END
+tcc_vpu_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tcc_vpu_interface.c
+END
+TCC89x_Physical.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/TCC89x_Physical.h
+END
+Virtual.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/Virtual.c
+END
+viqe_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/viqe_cmd.c
+END
+tcc_vpu_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/tcc_vpu_interface.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camera/tcc/globals.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor
+END
+OBDDataGather.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/OBDDataGather.h
+END
+bsCarInfoMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/bsCarInfoMonitor.cpp
+END
+carDataGather.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/carDataGather.h
+END
+OBDDataUpload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/OBDDataUpload.cpp
+END
+bsCarInfoMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/bsCarInfoMonitor.h
+END
+carDataUpload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/carDataUpload.cpp
+END
+OBDDataUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/OBDDataUpload.h
+END
+OBDDataGather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/OBDDataGather.cpp
+END
+carDataUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/carDataUpload.h
+END
+carDataGather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/bsManager/carInfoMonitor/carDataGather.cpp
+END

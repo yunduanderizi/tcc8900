@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData
+END
+file_list
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/file_list
+END
+recoveryDefaultData.pro
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/recoveryDefaultData.pro
+END
+recoveryDefaultData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/recoveryDefaultData.cpp
+END
+map_activation.sh_ddt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/map_activation.sh_ddt
+END
+recoveryDefaultData.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/recoveryDefaultData.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/main.cpp
+END
+data_backup.sh_nand
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/data_backup.sh_nand
+END
+data_backup.sh_emmc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recoveryDefaultData/data_backup.sh_emmc
+END

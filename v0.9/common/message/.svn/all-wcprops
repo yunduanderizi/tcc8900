@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/1652/branches/innovbox/v0.9/common/message
+END
+phoneMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1411/branches/innovbox/v0.9/common/message/phoneMessage.cpp
+END
+NaviDbusMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1048/branches/innovbox/v0.9/common/message/NaviDbusMessage.cpp
+END
+DeviceManagerDbusMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/1652/branches/innovbox/v0.9/common/message/DeviceManagerDbusMessage.h
+END
+phoneMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1411/branches/innovbox/v0.9/common/message/phoneMessage.h
+END
+AudioManageMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1374/branches/innovbox/v0.9/common/message/AudioManageMessage.h
+END
+NaviDbusMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1179/branches/innovbox/v0.9/common/message/NaviDbusMessage.h
+END
+SchoolID.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/common/message/SchoolID.h
+END
+CapappDBusMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1305/branches/innovbox/v0.9/common/message/CapappDBusMessage.h
+END

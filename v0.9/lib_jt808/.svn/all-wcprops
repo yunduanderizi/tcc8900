@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tcc890x_common/!svn/ver/1467/branches/innovbox/v0.9/lib_jt808
+END
+15H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/15H.h
+END
+JT808ApplicationHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1398/branches/innovbox/v0.9/lib_jt808/JT808ApplicationHandler.h
+END
+cpipe.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1392/branches/innovbox/v0.9/lib_jt808/cpipe.hpp
+END
+ConfigManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/ConfigManager.h
+END
+JT808Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1405/branches/innovbox/v0.9/lib_jt808/JT808Manager.cpp
+END
+tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1392/branches/innovbox/v0.9/lib_jt808/tool.cpp
+END
+JT808MessageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1394/branches/innovbox/v0.9/lib_jt808/JT808MessageHandler.cpp
+END
+JT808MessageHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1404/branches/innovbox/v0.9/lib_jt808/JT808MessageHelper.cpp
+END
+tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/1392/branches/innovbox/v0.9/lib_jt808/tool.h
+END
+JT808FifoMessageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/1400/branches/innovbox/v0.9/lib_jt808/JT808FifoMessageHandler.cpp
+END
+8H.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/8H.h
+END
+9H.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/9H.h
+END
+JT808MessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1394/branches/innovbox/v0.9/lib_jt808/JT808MessageHandler.h
+END
+JT808MessageHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1402/branches/innovbox/v0.9/lib_jt808/JT808MessageHelper.h
+END
+JT808FifoMessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1404/branches/innovbox/v0.9/lib_jt808/JT808FifoMessageHandler.h
+END
+ConnectionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/ConnectionManager.cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/1389/branches/innovbox/v0.9/lib_jt808/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1467/branches/innovbox/v0.9/lib_jt808/Makefile
+END
+mangqu.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/mangqu.h
+END
+10H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/10H.h
+END
+11H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/11H.h
+END
+JT808ApplicationHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/JT808ApplicationHandler.cpp
+END
+ConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/ConnectionManager.h
+END
+12H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/12H.h
+END
+ConfigManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/ConfigManager.cpp
+END
+13H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/13H.h
+END
+cpipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1392/branches/innovbox/v0.9/lib_jt808/cpipe.cpp
+END
+14H.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1388/branches/innovbox/v0.9/lib_jt808/14H.h
+END

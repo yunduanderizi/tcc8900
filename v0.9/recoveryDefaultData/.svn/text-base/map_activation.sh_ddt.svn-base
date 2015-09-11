@@ -1,0 +1,10 @@
+#!/bin/sh
+
+if [ ! -e /application/data_backup/ritu/cfg.dat ]; then
+   if [ -e /nand3/ritu/cfg.dat ]; then
+      mount -w -o remount /application
+      cp -arf /nand3/ritu/cfg.dat /application/data_backup/ritu
+      sync
+      mount -r -o remount /application
+   fi
+fi

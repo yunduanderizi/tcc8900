@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/1464/branches/innovbox/v0.9/audioManager
+END
+audioManager.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1233/branches/innovbox/v0.9/audioManager/audioManager.pro
+END
+audio_main_volume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1464/branches/innovbox/v0.9/audioManager/audio_main_volume.cpp
+END
+i2ccontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1233/branches/innovbox/v0.9/audioManager/i2ccontrol.cpp
+END
+audio_main_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1374/branches/innovbox/v0.9/audioManager/audio_main_volume.h
+END
+i2ccontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/1233/branches/innovbox/v0.9/audioManager/i2ccontrol.h
+END

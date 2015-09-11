@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl
+END
+audioControl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioControl.pro
+END
+audioData.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioData.h
+END
+parseConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/parseConfig.cpp
+END
+audioDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioDevice.cpp
+END
+audioControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioControl.cpp
+END
+myDbus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/myDbus.cpp
+END
+parseConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/parseConfig.h
+END
+audioDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioDevice.h
+END
+audioControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioControl.h
+END
+audioControlMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioControlMain.cpp
+END
+myDbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/myDbus.h
+END
+audioControlErrCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControl/audioControlErrCode.h
+END

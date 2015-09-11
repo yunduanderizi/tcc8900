@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager
+END
+pluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/pluginManager.cpp
+END
+dataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManager.h
+END
+dataManagerInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerInterface.h
+END
+dataManagerServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerServer.cpp
+END
+repair_subarea.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/repair_subarea.sh
+END
+pluginData.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/pluginData.h
+END
+pluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/pluginManager.h
+END
+dataManagerServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerServer.h
+END
+dataManager.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManager.pro
+END
+dataManagerClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerClient.cpp
+END
+dataManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManager.cpp
+END
+dataManagerDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerDefine.h
+END
+dataManagerInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerInterface.cpp
+END
+dataManagerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/dataManager/dataManagerClient.h
+END

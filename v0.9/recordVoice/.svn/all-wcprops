@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/recordVoice
+END
+recordVoice.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1006/branches/innovbox/v0.9/recordVoice/recordVoice.pro
+END
+clientMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/recordVoice/clientMain.cpp
+END
+record.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recordVoice/record.h
+END
+clientMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/recordVoice/clientMain.h
+END
+wav_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recordVoice/wav_parser.cpp
+END
+record.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recordVoice/record.cpp
+END
+wav_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/recordVoice/wav_parser.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinyxml.h
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinystr.cpp
+END
+i2ctl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/i2ctl.cpp
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinyxmlerror.cpp
+END
+NetApi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/NetApi.cpp
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinystr.h
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinyxmlparser.cpp
+END
+i2ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/i2ctl.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/tinyxml.cpp
+END
+NetApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/caraction/common/NetApi.h
+END

@@ -1,0 +1,55 @@
+10
+
+dir
+1662
+http://192.168.0.223/svn/tcc890x_common/branches/innovbox/v0.9/tools
+http://192.168.0.223/svn/tcc890x_common
+
+
+
+2014-04-04T08:25:39.623431Z
+1436
+zhangfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20392a30-d477-4b7d-9936-822fcbd5a104
+
+emmcstatus
+dir
+
+updatedb
+dir
+
+interceptty-0.6
+dir
+
+serial
+dir
+
+generateconfig
+dir
+
+readsimiccid
+dir
+
+maintenance
+dir
+
+picfb
+dir
+
+uploadupdateinfo
+dir
+

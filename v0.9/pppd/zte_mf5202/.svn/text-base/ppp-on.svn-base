@@ -1,0 +1,144 @@
+#!/bin/sh
+#
+# Script to initiate a ppp connection. This is the first part of the
+# pair of scripts. This is not a secure pair of scripts as the codes
+# are visible with the 'ps' command.  However, it is simple.
+
+programName=${0##*/}
+# These are the parameters. Change as needed.
+#DEVICE=/dev/usb/tts/0
+DEVICE=/dev/ttyUSB4               	    #The modem file name of the data card
+#TELEPHONE=*99#                             # The telephone number for the connection, by default, it will be *99#
+TELEPHONE=*99***1#                              # The telephone number for the connection, by default, it will be *99#
+ACCOUNT=                                # The account name for logon, by default, it  will be null
+PASSWORD=    	                    # The password for this account, by default, it  will be null
+
+show_usage(){
+  echo "usage:"
+  echo "  $programName [--usr=username] [--pwd=password] [--pn=phonenumber]"
+  echo "username: The account name get from your ISP, by default, it will be null"
+  echo "password: The password for your account, by default, it will be null"
+  echo "phonenumber: The phone  number for dialing up, by default, it will be *99#"
+  exit 0
+}
+
+if [ $# -eq 1 -a "$1" = "--help" ]
+then
+	show_usage
+fi
+
+for i in "$@"
+do
+    case $i in
+       --usr=*)
+#            echo "--usr*=$i"
+            ACCOUNT=${i#--usr=}
+            ;;
+       --pwd=*)
+#            echo "--pwd*=$i"
+            PASSWORD=${i#--pwd=}
+            ;;
+       --pn=*)
+#            echo "--pn*$i"
+            TELEPHONE=${i#--pn=}
+            ;;
+          *)
+            echo "*=$i"
+   esac
+
+done
+
+
+if [ "$5" = "" ]; then
+        LOCAL_IP=0.0.0.0
+else
+        LOCAL_IP=$5
+fi
+
+if [ "$6" = "" ]; then
+        REMOTE_IP=0.0.0.0
+else
+        REMOTE_IP=$6
+fi
+
+if [ ! "$7" = "" ]; then
+	USEPEERDNS=''
+	for NAMESERVER in `echo $7 | awk -F: '{for (i=1;i<=NF;i++) print $i}'`
+	do
+        	echo "nameserver $NAMESERVER" >> /etc/ppp/resolv.conf
+	done
+else
+	USEPEERDNS='usepeerdns'
+fi
+
+NETMASK=255.255.255.0	# The proper netmask if needed
+#
+# Export them so that they will be available at 'ppp-on-dialer' time.
+export TELEPHONE APN ACCOUNT PASSWORD 
+# 
+# This is the location of the script which dials the phone and logs
+# in.  Please use the absolute file name as the $PATH variable is not
+# used on the connect option.  (To do so on a 'root' account would be
+# a security hole so don't ask.)
+#
+DIALER_SCRIPT=/application/work/ppp-on-dialer
+# Initiate the connection
+# 
+# I put most of the common options on this command. Please, don't
+# forget the 'lock' option or some programs such as mgetty will not
+# work. The asyncmap and escape will permit the PPP link to work with
+# a telnet or rlogin connection. You are welcome to make any changes
+# as desired. Don't use the 'defaultroute' option if you currently
+# have a default route to an ethernet gateway.
+#
+mkdir -p /etc/ppp
+rm -rf /etc/resolv.conf
+ln -s /etc/ppp/resolv.conf /etc/resolv.conf
+
+#while [ 1 ];
+#do
+#   rm -rf /var/lock/LCK..ttyUSB2    
+#   rm -rf /var/run/ppp0.pid
+#   rm -rf /var/run/pppd2.tdb
+   
+#   echo AT+CGDCONT=1,\"IP\",\"3GNET\" > /dev/ttyUSB2
+#   /application/work/pppd debug lock nodetach crtscts modem $DEVICE 115200 $USEPEERDNS noauth \
+#	noipdefault defaultroute name "$ACCOUNT" password "$PASSWORD" connect $DIALER_SCRIPT 
+#   sleep 1
+#done
+
+############### 
+NUM=0
+
+while [ 1 ]
+do
+  T1=$(echo `/application/work/gettime` | awk '{print $1}')
+
+  rm -rf /var/lock/LCK..ttyUSB2    
+  rm -rf /var/run/ppp0.pid
+  rm -rf /var/run/pppd2.tdb
+
+  echo AT+CGDCONT=1,\"IP\",\"3GNET\" > /dev/ttyUSB2
+  /application/work/pppd debug lock nodetach crtscts modem $DEVICE 115200 $USEPEERDNS noauth \
+       noipdefault defaultroute name "$ACCOUNT" password "$PASSWORD" connect $DIALER_SCRIPT 
+
+  T2=$(echo `/application/work/gettime` | awk '{print $1}')
+
+  T_DIFF=$((T2-T1))
+
+  if [ $T_DIFF -le 16 ]; then
+     if [ $NUM -le 2 ]; then
+        sleep 10
+     else 
+        if [ $NUM -le 5 ]; then
+           sleep 60
+        else
+           sleep 120
+        fi
+     fi
+     
+     NUM=`expr $NUM + 1` 
+  else
+     NUM=0
+  fi
+done

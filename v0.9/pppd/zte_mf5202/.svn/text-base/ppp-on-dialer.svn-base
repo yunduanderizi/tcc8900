@@ -1,0 +1,22 @@
+#!/bin/sh
+#
+# This is part 2 of the ppp-on script. It will perform the connection
+# protocol for the desired connection.
+
+#
+/application/work/chat -v -V -s -S					\
+	TIMEOUT		25				\
+	ABORT		'\nBUSY\r'			\
+	ABORT		'\nNO ANSWER\r'			\
+	ABORT		'\nNO CARRIER\r'			\
+	ABORT		'\nRINGING\r\n\r\nRINGING\r'	\
+        ABORT           '\nUsername/Password Incorrect\r' \
+	SAY		"Beginning...\n\r"		\
+	''		AT				\
+	SAY		"AT....\n\r"		\
+	OK		ATH				\
+	SAY             "Dialing up...$TELEPHONE\n"    \
+	OK		ATDT$TELEPHONE			\
+	SAY     "ATDT...\n\r"		\
+	CONNECT		\c				\
+	SAY		"Logging...\n\r"			\

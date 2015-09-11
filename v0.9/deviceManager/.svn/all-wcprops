@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tcc890x_common/!svn/ver/1662/branches/innovbox/v0.9/deviceManager
+END
+devicemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1662/branches/innovbox/v0.9/deviceManager/devicemanager.cpp
+END
+devicemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1652/branches/innovbox/v0.9/deviceManager/devicemanager.h
+END
+serialprotocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/serialprotocol.cpp
+END
+workq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/workq.cpp
+END
+mcuprotocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1509/branches/innovbox/v0.9/deviceManager/mcuprotocol.cpp
+END
+serialprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/serialprotocol.h
+END
+serialprotocol2012.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/1509/branches/innovbox/v0.9/deviceManager/serialprotocol2012.cpp
+END
+deviceManager.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1164/branches/innovbox/v0.9/deviceManager/deviceManager.pro
+END
+workq.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/workq.h
+END
+serialbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/1086/branches/innovbox/v0.9/deviceManager/serialbase.cpp
+END
+mcuprotocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1453/branches/innovbox/v0.9/deviceManager/mcuprotocol.h
+END
+serialprotocol2012.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1339/branches/innovbox/v0.9/deviceManager/serialprotocol2012.h
+END
+serialbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/serialbase.h
+END
+devicemanager-freight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/1596/branches/innovbox/v0.9/deviceManager/devicemanager-freight.cpp
+END
+errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/deviceManager/errors.h
+END
+devicemanager-J.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1534/branches/innovbox/v0.9/deviceManager/devicemanager-J.cpp
+END
+devicemanager-J-wt-pic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/1534/branches/innovbox/v0.9/deviceManager/devicemanager-J-wt-pic.cpp
+END
+writeloctool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1093/branches/innovbox/v0.9/deviceManager/writeloctool.cpp
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/1603/branches/innovbox/v0.9/inputmethod/screen800
+END
+editwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/editwidget.h
+END
+handinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/885/branches/innovbox/v0.9/inputmethod/screen800/handinput.h
+END
+characterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/characterwidget.cpp
+END
+letterwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/letterwidget.cpp
+END
+inputmethod.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/inputmethod.qrc
+END
+digitwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/digitwidget.cpp
+END
+characterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/characterwidget.h
+END
+swtichslectewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tcc890x_common/!svn/ver/1603/branches/innovbox/v0.9/inputmethod/screen800/swtichslectewidget.cpp
+END
+letterwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/letterwidget.h
+END
+digitwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/digitwidget.h
+END
+swtichslectewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/swtichslectewidget.h
+END
+fcitxMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/fcitxMethod.cpp
+END
+fcitxMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/fcitxMethod.h
+END
+voiceinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/voiceinput.cpp
+END
+pinyininputmethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/pinyininputmethod.cpp
+END
+editwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/editwidget.cpp
+END
+voiceinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/voiceinput.h
+END
+handinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/885/branches/innovbox/v0.9/inputmethod/screen800/handinput.cpp
+END
+pinyininputmethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/screen800/pinyininputmethod.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/1124/branches/innovbox/v0.9/diskManagerCenter
+END
+diskManagerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerClient.h
+END
+diskManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManager.h
+END
+diskManagerMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerMessage.cpp
+END
+diskManagerServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/1124/branches/innovbox/v0.9/diskManagerCenter/diskManagerServer.cpp
+END
+diskManagerMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerMessage.h
+END
+diskManagerServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerServer.h
+END
+diskManagerCenter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerCenter.pro
+END
+diskManagerClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/diskManagerCenter/diskManagerClient.cpp
+END
+diskManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1124/branches/innovbox/v0.9/diskManagerCenter/diskManager.cpp
+END

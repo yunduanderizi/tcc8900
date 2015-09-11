@@ -1,0 +1,487 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACFINT	commanddefs.h	11;"	d
+AFCRL	si475xAMRX.c	/^static u8    AFCRL=0;$/;"	v	file:
+AFCRL	si475xFMRX.c	/^static u8  AFCRL=0;$/;"	v	file:
+AGC_STATUS	commanddefs.h	29;"	d
+AM_ACF_CBW_THRESHOLD	propertydefs.h	56;"	d
+AM_ACF_CONTROL_SOURCE	propertydefs.h	58;"	d
+AM_ACF_HC_THRESHOLD	propertydefs.h	57;"	d
+AM_ACF_INTERRUPT_SOURCE	propertydefs.h	54;"	d
+AM_ACF_SM_THRESHOLD	propertydefs.h	55;"	d
+AM_ACF_STATUS	commanddefs.h	49;"	d
+AM_AGC_AM_LNA_PD_AGC_ATTACK_MS	propertydefs.h	34;"	d
+AM_AGC_AM_LNA_PD_AGC_RELEASE_MS	propertydefs.h	35;"	d
+AM_AGC_AM_LNA_PD_THRESHOLD	propertydefs.h	36;"	d
+AM_AGC_FE_CONFIG	propertydefs.h	26;"	d
+AM_AGC_FMATTEN1	propertydefs.h	38;"	d
+AM_AGC_FMATTEN2	propertydefs.h	39;"	d
+AM_AGC_FM_MIXER_PD_AGC_ATTACK_MS	propertydefs.h	31;"	d
+AM_AGC_FM_MIXER_PD_AGC_RELEASE_MS	propertydefs.h	32;"	d
+AM_AGC_FM_MIXER_PD_THRESHOLD	propertydefs.h	33;"	d
+AM_AGC_FW_LNA_PD_AGC_ATTACK_MS	propertydefs.h	28;"	d
+AM_AGC_FW_LNA_PD_AGC_RELEASE_MS	propertydefs.h	29;"	d
+AM_AGC_FW_LNA_PD_THRESHOLD	propertydefs.h	30;"	d
+AM_AGC_LNA_GAIN	propertydefs.h	40;"	d
+AM_AGC_OVERRIDE	propertydefs.h	37;"	d
+AM_AGC_PD_CONFIG	propertydefs.h	27;"	d
+AM_AGC_PGA_GAIN	propertydefs.h	41;"	d
+AM_AGC_STATUS	commanddefs.h	50;"	d
+AM_AGC_WHIP_CAP_ATTEN	propertydefs.h	42;"	d
+AM_AGC_WHIP_RES_ATTEN	propertydefs.h	43;"	d
+AM_AVC_MAX_GAIN	propertydefs.h	25;"	d
+AM_AVC_MIN_GAIN	propertydefs.h	24;"	d
+AM_CHBW_SNR_HIGH_THRESHOLD	propertydefs.h	72;"	d
+AM_CHBW_SNR_LOW_THRESHOLD	propertydefs.h	73;"	d
+AM_CHBW_SNR_MIN_MAX	propertydefs.h	71;"	d
+AM_CHBW_SNR_NARROWING_TIME	propertydefs.h	75;"	d
+AM_CHBW_SNR_WIDENING_TIME	propertydefs.h	74;"	d
+AM_HICUT_ATTACK_TIME	propertydefs.h	78;"	d
+AM_HICUT_CUTOFF_FREQ	propertydefs.h	80;"	d
+AM_HICUT_RELEASE_TIME	propertydefs.h	79;"	d
+AM_HICUT_SNR_HIGH_THRESHOLD	propertydefs.h	76;"	d
+AM_HICUT_SNR_LOW_THRESHOLD	propertydefs.h	77;"	d
+AM_IBOC_ANALOG_TO_HD_CROSSFADE_TIME	propertydefs.h	82;"	d
+AM_IBOC_CONTROL	propertydefs.h	81;"	d
+AM_IBOC_DYNAMIC_GAIN	propertydefs.h	84;"	d
+AM_IBOC_HD_TO_ANALOG_CROSSFADE_TIME	propertydefs.h	83;"	d
+AM_IBOC_STATIC_GAIN	propertydefs.h	85;"	d
+AM_NB_DETECT_THRESHOLD	propertydefs.h	65;"	d
+AM_NB_INTERVAL	propertydefs.h	66;"	d
+AM_NB_MODE_CONTROL	propertydefs.h	70;"	d
+AM_NB_SCHEME	propertydefs.h	69;"	d
+AM_PATCH_FILE	si4754radio.cpp	19;"	d	file:
+AM_RSQ_INTERRUPT_SOURCE	propertydefs.h	47;"	d
+AM_RSQ_ISSI_HIGH_THRESHOLD	propertydefs.h	52;"	d
+AM_RSQ_ISSI_LOW_THRESHOLD	propertydefs.h	53;"	d
+AM_RSQ_RSSI_HIGH_THRESHOLD	propertydefs.h	50;"	d
+AM_RSQ_RSSI_LOW_THRESHOLD	propertydefs.h	51;"	d
+AM_RSQ_SNR_HIGH_THRESHOLD	propertydefs.h	48;"	d
+AM_RSQ_SNR_LOW_THRESHOLD	propertydefs.h	49;"	d
+AM_RSQ_STATUS	commanddefs.h	48;"	d
+AM_SECONDARY_NB_DETECT_THRESHOLD	propertydefs.h	67;"	d
+AM_SECONDARY_NB_INTERVAL	propertydefs.h	68;"	d
+AM_SEEK_BAND_BOTTOM	propertydefs.h	44;"	d
+AM_SEEK_BAND_TOP	propertydefs.h	45;"	d
+AM_SEEK_FREQUENCY_SPACING	propertydefs.h	46;"	d
+AM_SEEK_START	commanddefs.h	47;"	d
+AM_TUNE_FREQ	commanddefs.h	46;"	d
+AM_VALID_ISSI_THRESHOLD	propertydefs.h	64;"	d
+AM_VALID_MAX_TUNE_ERROR	propertydefs.h	59;"	d
+AM_VALID_RSSI_THRESHOLD	propertydefs.h	63;"	d
+AM_VALID_RSSI_TIME	propertydefs.h	60;"	d
+AM_VALID_SNR_THRESHOLD	propertydefs.h	62;"	d
+AM_VALID_SNR_TIME	propertydefs.h	61;"	d
+ANA_AUDIO_PIN_CFG	commanddefs.h	33;"	d
+ASQINT	commanddefs.h	15;"	d
+AUDIO_ANALOG_VOLUME	propertydefs.h	12;"	d
+AUDIO_DE_EMPHASIS	propertydefs.h	88;"	d
+AUDIO_DIV_MIX	propertydefs.h	14;"	d
+AUDIO_MUTE	propertydefs.h	13;"	d
+AUDIO_PWR_LINE_FILTER	propertydefs.h	23;"	d
+BLTF	si475xAMRX.c	/^static u8  BLTF=0;$/;"	v	file:
+BLTF	si475xFMRX.c	/^static u8  BLTF=0;$/;"	v	file:
+BleA	si475xFMRX.c	/^static u8  BleA;$/;"	v	file:
+BleB	si475xFMRX.c	/^static u8  BleB;$/;"	v	file:
+BleC	si475xFMRX.c	/^static u8  BleC;$/;"	v	file:
+BleD	si475xFMRX.c	/^static u8  BleD;$/;"	v	file:
+BlockA	si475xFMRX.c	/^static u16 BlockA;$/;"	v	file:
+BlockB	si475xFMRX.c	/^static u16 BlockB;$/;"	v	file:
+BlockC	si475xFMRX.c	/^static u16 BlockC;$/;"	v	file:
+BlockD	si475xFMRX.c	/^static u16 BlockD;$/;"	v	file:
+CLOCK_RCLK_FREQ	propertydefs.h	7;"	d
+CTS	commanddefs.h	17;"	d
+DC_Type	si475xFMRX.c	/^static u16 DC_Type=0;$/;"	v	file:
+DIGITAL_IO_INPUT_FORMAT	propertydefs.h	9;"	d
+DIGITAL_IO_INPUT_SAMPLE_RATE	propertydefs.h	8;"	d
+DIGITAL_IO_OUTPUT_FORMAT	propertydefs.h	11;"	d
+DIGITAL_IO_OUTPUT_SAMPLE_RATE	propertydefs.h	10;"	d
+DIG_AUDIO_PIN_CFG	commanddefs.h	30;"	d
+EEPROM_I2C_ADDR	radioManagerOld.cpp	52;"	d	file:
+ERR	commanddefs.h	16;"	d
+EUROPE	si475xFMRX.c	/^typedef enum {USA, EUROPE, JAPAN} country_enum; \/\/ Could be expanded$/;"	e	enum:__anon1	file:
+FM_ACF_BLEND_THRESHOLD	propertydefs.h	124;"	d
+FM_ACF_CBW_THRESHOLD	propertydefs.h	121;"	d
+FM_ACF_CONTROL_SOURCE	propertydefs.h	125;"	d
+FM_ACF_HC_LMR_THRESHOLD	propertydefs.h	123;"	d
+FM_ACF_HC_LPR_THRESHOLD	propertydefs.h	122;"	d
+FM_ACF_INTERRUPT_SOURCE	propertydefs.h	119;"	d
+FM_ACF_SM_THRESHOLD	propertydefs.h	120;"	d
+FM_ACF_STATUS	commanddefs.h	39;"	d
+FM_AGC_AM_LNA_PD_AGC_ATTACK_MS	propertydefs.h	97;"	d
+FM_AGC_AM_LNA_PD_AGC_RELEASE_MS	propertydefs.h	98;"	d
+FM_AGC_AM_LNA_PD_THRESHOLD	propertydefs.h	99;"	d
+FM_AGC_FE_CONFIG	propertydefs.h	89;"	d
+FM_AGC_FMATTEN1	propertydefs.h	101;"	d
+FM_AGC_FMATTEN2	propertydefs.h	102;"	d
+FM_AGC_FM_MIXER_PD_AGC_ATTACK_MS	propertydefs.h	94;"	d
+FM_AGC_FM_MIXER_PD_AGC_RELEASE_MS	propertydefs.h	95;"	d
+FM_AGC_FM_MIXER_PD_THRESHOLD	propertydefs.h	96;"	d
+FM_AGC_FW_LNA_PD_AGC_ATTACK_MS	propertydefs.h	91;"	d
+FM_AGC_FW_LNA_PD_AGC_RELEASE_MS	propertydefs.h	92;"	d
+FM_AGC_FW_LNA_PD_THRESHOLD	propertydefs.h	93;"	d
+FM_AGC_LNA_GAIN	propertydefs.h	103;"	d
+FM_AGC_OVERRIDE	propertydefs.h	100;"	d
+FM_AGC_PD_CONFIG	propertydefs.h	90;"	d
+FM_AGC_PGA_GAIN	propertydefs.h	104;"	d
+FM_AGC_WHIP_CAP_ATTEN	propertydefs.h	105;"	d
+FM_AGC_WHIP_RES_ATTEN	propertydefs.h	106;"	d
+FM_BLEND_MULTIPATH_ATTACK_TIME	propertydefs.h	149;"	d
+FM_BLEND_MULTIPATH_MONO_THRESHOLD	propertydefs.h	148;"	d
+FM_BLEND_MULTIPATH_RELEASE_TIME	propertydefs.h	150;"	d
+FM_BLEND_MULTIPATH_STEREO_THRESHOLD	propertydefs.h	147;"	d
+FM_BLEND_SNR_ATTACK_TIME	propertydefs.h	145;"	d
+FM_BLEND_SNR_RELEASE_TIME	propertydefs.h	146;"	d
+FM_BLEND_SNR_STEREO_THRESHOLD	propertydefs.h	144;"	d
+FM_BLEND_STEREO_SEPARATION	propertydefs.h	151;"	d
+FM_CAL_CAPACITOR	propertydefs.h	167;"	d
+FM_CAL_FMAX	propertydefs.h	168;"	d
+FM_CHBW_ASSI_HIGH_THRESHOLD	propertydefs.h	141;"	d
+FM_CHBW_ASSI_LOW_THRESHOLD	propertydefs.h	140;"	d
+FM_CHBW_ASSI_MIN_MAX	propertydefs.h	139;"	d
+FM_CHBW_ASSI_NARROWING_TIME	propertydefs.h	143;"	d
+FM_CHBW_ASSI_WIDENING_TIME	propertydefs.h	142;"	d
+FM_CHBW_DEV_HIGH_THRESHOLD	propertydefs.h	135;"	d
+FM_CHBW_DEV_LOW_THRESHOLD	propertydefs.h	136;"	d
+FM_CHBW_DEV_MIN_MAX	propertydefs.h	134;"	d
+FM_CHBW_DEV_NARROWING_TIME	propertydefs.h	138;"	d
+FM_CHBW_DEV_WIDENING_TIME	propertydefs.h	137;"	d
+FM_HICUT_ATTACK_TIME	propertydefs.h	158;"	d
+FM_HICUT_LMR_CUTOFF_FREQ	propertydefs.h	161;"	d
+FM_HICUT_LPR_CUTOFF_FREQ	propertydefs.h	160;"	d
+FM_HICUT_MULTIPATH_LMR_HIGH_THRESHOLD	propertydefs.h	156;"	d
+FM_HICUT_MULTIPATH_LMR_LOW_THRESHOLD	propertydefs.h	157;"	d
+FM_HICUT_RELEASE_TIME	propertydefs.h	159;"	d
+FM_HICUT_SNR_LMR_HIGH_THRESHOLD	propertydefs.h	154;"	d
+FM_HICUT_SNR_LMR_LOW_THRESHOLD	propertydefs.h	155;"	d
+FM_HICUT_SNR_LPR_HIGH_THRESHOLD	propertydefs.h	152;"	d
+FM_HICUT_SNR_LPR_LOW_THRESHOLD	propertydefs.h	153;"	d
+FM_IBOC_ANALOG_TO_HD_CROSSFADE_TIME	propertydefs.h	163;"	d
+FM_IBOC_CONTROL	propertydefs.h	162;"	d
+FM_IBOC_DYNAMIC_GAIN	propertydefs.h	165;"	d
+FM_IBOC_HD_TO_ANALOG_CROSSFADE_TIME	propertydefs.h	164;"	d
+FM_IBOC_STATIC_GAIN	propertydefs.h	166;"	d
+FM_NB_DETECT_THRESHOLD	propertydefs.h	132;"	d
+FM_NB_INTERVAL	propertydefs.h	133;"	d
+FM_RDS_BLOCKCOUNT	commanddefs.h	43;"	d
+FM_RDS_CONFIDENCE	propertydefs.h	174;"	d
+FM_RDS_CONFIG	propertydefs.h	173;"	d
+FM_RDS_INTERRUPT_FIFO_COUNT	propertydefs.h	172;"	d
+FM_RDS_INTERRUPT_SOURCE	propertydefs.h	171;"	d
+FM_RDS_STATUS	commanddefs.h	42;"	d
+FM_RSQ_INTERRUPT_SOURCE	propertydefs.h	110;"	d
+FM_RSQ_ISSI_HIGH_THRESHOLD	propertydefs.h	115;"	d
+FM_RSQ_ISSI_LOW_THRESHOLD	propertydefs.h	116;"	d
+FM_RSQ_MULTIPATH_HIGH_THRESHOLD	propertydefs.h	117;"	d
+FM_RSQ_MULTIPATH_LOW_THRESHOLD	propertydefs.h	118;"	d
+FM_RSQ_RSSI_HIGH_THRESHOLD	propertydefs.h	113;"	d
+FM_RSQ_RSSI_LOW_THRESHOLD	propertydefs.h	114;"	d
+FM_RSQ_SNR_HIGH_THRESHOLD	propertydefs.h	111;"	d
+FM_RSQ_SNR_LOW_THRESHOLD	propertydefs.h	112;"	d
+FM_RSQ_STATUS	commanddefs.h	38;"	d
+FM_SEEKTIMEOUT	si475xFMRX.c	60;"	d	file:
+FM_SEEK_BAND_BOTTOM	propertydefs.h	107;"	d
+FM_SEEK_BAND_TOP	propertydefs.h	108;"	d
+FM_SEEK_FREQUENCY_SPACING	propertydefs.h	109;"	d
+FM_SEEK_START	commanddefs.h	37;"	d
+FM_TUNE_FREQ	commanddefs.h	36;"	d
+FM_UNITTIMEOUT	si475xFMRX.c	61;"	d	file:
+FM_VALID_ISSI_THRESHOLD	propertydefs.h	131;"	d
+FM_VALID_MAX_TUNE_ERROR	propertydefs.h	126;"	d
+FM_VALID_RSSI_THRESHOLD	propertydefs.h	130;"	d
+FM_VALID_RSSI_TIME	propertydefs.h	127;"	d
+FM_VALID_SNR_THRESHOLD	propertydefs.h	129;"	d
+FM_VALID_SNR_TIME	propertydefs.h	128;"	d
+FUNC_INFO	commanddefs.h	25;"	d
+Freq	si475xAMRX.c	/^static u16   Freq =0;$/;"	v	file:
+Freq	si475xFMRX.c	/^static u16   Freq =0;$/;"	v	file:
+GET_INT_STATUS	commanddefs.h	28;"	d
+GET_PROPERTY	commanddefs.h	27;"	d
+GrpLost	si475xFMRX.c	/^static u8  GrpLost;$/;"	v	file:
+IC_LINK_PIN_CFG	commanddefs.h	32;"	d
+INT_CTL_ENABLE	propertydefs.h	6;"	d
+InitAM	si4754radio.cpp	/^void si4754Radio::InitAM(void)$/;"	f	class:si4754Radio
+InitFM	si4754radio.cpp	/^void si4754Radio::InitFM(void)$/;"	f	class:si4754Radio
+JAPAN	si475xFMRX.c	/^typedef enum {USA, EUROPE, JAPAN} country_enum; \/\/ Could be expanded$/;"	e	enum:__anon1	file:
+NUM_SEEK_PRESETS	radioManagerOld.cpp	20;"	d	file:
+PART_INFO	commanddefs.h	21;"	d
+PI	si475xFMRX.c	/^static u8  PI;$/;"	v	file:
+POWERUP_TIME	si475xFMRX.c	22;"	d	file:
+POWER_DOWN	commanddefs.h	24;"	d
+POWER_UP	commanddefs.h	20;"	d
+PTY	si475xFMRX.c	/^static u8  PTY;$/;"	v	file:
+PoweredUp	si475x_low.c	/^unsigned char PoweredUp = 0;$/;"	v
+RADIO_CONFIG_FILE_PATHNAME	radioManagerOld.cpp	56;"	d	file:
+RADIO_CONFIG_FILE_PATHNAME	si4754radio.cpp	18;"	d	file:
+RADIO_GET_SMETER	radioManagerOld.cpp	54;"	d	file:
+RADIO_MANAGEROLD_H	radioManagerOld.h	2;"	d
+RDSINT	commanddefs.h	12;"	d
+RMVoiceSwitchFunction	radioManagerOld.h	/^typedef void (*RMVoiceSwitchFunction)(int voiceSwitch,void* userData);$/;"	t	namespace:yuanTe
+RM_AM_METER_THRESHOLD	radioManagerOld.cpp	49;"	d	file:
+RM_AM_SEARCH_INTERVAL	radioManagerOld.cpp	45;"	d	file:
+RM_FM_METER_THRESHOLD	radioManagerOld.cpp	48;"	d	file:
+RM_FM_SEARCH_INTERVAL	radioManagerOld.cpp	44;"	d	file:
+RM_I2C_ADDR	radioManagerOld.cpp	51;"	d	file:
+RM_SEARCHED_INTERVAL	radioManagerOld.cpp	46;"	d	file:
+RM_STATUS_INIT	radioManagerOld.cpp	34;"	d	file:
+RM_STATUS_LISTEN	radioManagerOld.cpp	36;"	d	file:
+RM_STATUS_OPENED	radioManagerOld.cpp	35;"	d	file:
+RM_STATUS_SEARCH	radioManagerOld.cpp	37;"	d	file:
+RM_VOICE_SWITCH_OFF	radioManagerOld.h	19;"	d
+RM_VOICE_SWITCH_ON	radioManagerOld.h	18;"	d
+RM_VOLUME_DEC	radioManagerOld.h	14;"	d
+RM_VOLUME_INC	radioManagerOld.h	13;"	d
+RM_VOLUME_MAX	radioManagerOld.h	10;"	d
+RM_VOLUME_MIN	radioManagerOld.h	9;"	d
+RM_VOLUME_SET	radioManagerOld.h	12;"	d
+RSQINT	commanddefs.h	14;"	d
+RSSI	si475xAMRX.c	/^static u8    RSSI=0;$/;"	v	file:
+RSSI	si475xFMRX.c	/^static u8  RSSI=0;$/;"	v	file:
+RadioManagerOld	radioManagerOld.cpp	/^RadioManagerOld::RadioManagerOld()$/;"	f	class:RadioManagerOld
+RadioManagerOld	radioManagerOld.h	/^class RadioManagerOld:public AbstractRadio$/;"	c	namespace:yuanTe
+RdsFifoUsed	si475xFMRX.c	/^static u8  RdsFifoUsed;$/;"	v	file:
+RdsInts	si475xFMRX.c	/^static u8  RdsInts;$/;"	v	file:
+RdsSync	si475xFMRX.c	/^static u8  RdsSync;$/;"	v	file:
+RsqInts	si475xAMRX.c	/^static u8    RsqInts=0;$/;"	v	file:
+RsqInts	si475xFMRX.c	/^static u8  RsqInts=0;$/;"	v	file:
+SAMEINT	commanddefs.h	13;"	d
+SET_PROPERTY	commanddefs.h	26;"	d
+SI4740_I2C_ADDR	io.c	12;"	d	file:
+SI4754RADIO_H	si4754radio.h	2;"	d
+SI47XXAMRX_H	si47xxAMRX.h	2;"	d
+SI47XXFMRX_H	si47xxFMRX.h	2;"	d
+SOFT_MUTE_ATTACK_TIME	propertydefs.h	19;"	d
+SOFT_MUTE_END_THRESHOLD	propertydefs.h	17;"	d
+SOFT_MUTE_MAX_ATTENUATION	propertydefs.h	15;"	d
+SOFT_MUTE_RELEASE_TIME	propertydefs.h	18;"	d
+SOFT_MUTE_TRIGGER_THRESHOLD	propertydefs.h	16;"	d
+STCINT	commanddefs.h	10;"	d
+Status	si475xAMRX.c	/^static u8    Status=0;$/;"	v	file:
+Status	si475xFMRX.c	/^static u8  Status=0;$/;"	v	file:
+TP	si475xFMRX.c	/^static u8  TP;$/;"	v	file:
+TYPEDEFS_H	typedefs.h	2;"	d
+USA	si475xFMRX.c	/^typedef enum {USA, EUROPE, JAPAN} country_enum; \/\/ Could be expanded$/;"	e	enum:__anon1	file:
+Valid	si475xAMRX.c	/^static  u8    Valid=0;$/;"	v	file:
+Valid	si475xFMRX.c	/^static  u8    Valid=0;$/;"	v	file:
+WB_ACF_CBW_THRESHOLD	propertydefs.h	209;"	d
+WB_ACF_CONTROL_SOURCE	propertydefs.h	211;"	d
+WB_ACF_HC_THRESHOLD	propertydefs.h	210;"	d
+WB_ACF_INTERRUPT_SOURCE	propertydefs.h	207;"	d
+WB_ACF_SM_THRESHOLD	propertydefs.h	208;"	d
+WB_ACF_STATUS	commanddefs.h	57;"	d
+WB_AGC_AM_LNA_PD_AGC_ATTACK_MS	propertydefs.h	187;"	d
+WB_AGC_AM_LNA_PD_AGC_RELEASE_MS	propertydefs.h	188;"	d
+WB_AGC_AM_LNA_PD_THRESHOLD	propertydefs.h	189;"	d
+WB_AGC_FE_CONFIG	propertydefs.h	179;"	d
+WB_AGC_FMATTEN1	propertydefs.h	191;"	d
+WB_AGC_FMATTEN2	propertydefs.h	192;"	d
+WB_AGC_FM_MIXER_PD_AGC_ATTACK_MS	propertydefs.h	184;"	d
+WB_AGC_FM_MIXER_PD_AGC_RELEASE_MS	propertydefs.h	185;"	d
+WB_AGC_FM_MIXER_PD_THRESHOLD	propertydefs.h	186;"	d
+WB_AGC_FW_LNA_PD_AGC_ATTACK_MS	propertydefs.h	181;"	d
+WB_AGC_FW_LNA_PD_AGC_RELEASE_MS	propertydefs.h	182;"	d
+WB_AGC_FW_LNA_PD_THRESHOLD	propertydefs.h	183;"	d
+WB_AGC_LNA_GAIN	propertydefs.h	193;"	d
+WB_AGC_OVERRIDE	propertydefs.h	190;"	d
+WB_AGC_PD_CONFIG	propertydefs.h	180;"	d
+WB_AGC_PGA_GAIN	propertydefs.h	194;"	d
+WB_AGC_WHIP_CAP_ATTEN	propertydefs.h	195;"	d
+WB_AGC_WHIP_RES_ATTEN	propertydefs.h	196;"	d
+WB_ASQ_DETECT_RANGE	propertydefs.h	234;"	d
+WB_ASQ_DETECT_THRESHOLD	propertydefs.h	235;"	d
+WB_ASQ_INTERRUPT_SOURCE	propertydefs.h	233;"	d
+WB_ASQ_STATUS	commanddefs.h	56;"	d
+WB_AVC_MAX_GAIN	propertydefs.h	178;"	d
+WB_AVC_MIN_GAIN	propertydefs.h	177;"	d
+WB_CHBW_ASSI_HIGH_THRESHOLD	propertydefs.h	225;"	d
+WB_CHBW_ASSI_LOW_THRESHOLD	propertydefs.h	224;"	d
+WB_CHBW_ASSI_MIN_MAX	propertydefs.h	223;"	d
+WB_CHBW_ASSI_NARROWING_TIME	propertydefs.h	227;"	d
+WB_CHBW_ASSI_WIDENING_TIME	propertydefs.h	226;"	d
+WB_CHBW_SNR_HIGH_THRESHOLD	propertydefs.h	219;"	d
+WB_CHBW_SNR_LOW_THRESHOLD	propertydefs.h	220;"	d
+WB_CHBW_SNR_MIN_MAX	propertydefs.h	218;"	d
+WB_CHBW_SNR_NARROWING_TIME	propertydefs.h	222;"	d
+WB_CHBW_SNR_WIDENING_TIME	propertydefs.h	221;"	d
+WB_HICUT_ATTACK_TIME	propertydefs.h	230;"	d
+WB_HICUT_CUTOFF_FREQ	propertydefs.h	232;"	d
+WB_HICUT_RELEASE_TIME	propertydefs.h	231;"	d
+WB_HICUT_SNR_HIGH_THRESHOLD	propertydefs.h	228;"	d
+WB_HICUT_SNR_LOW_THRESHOLD	propertydefs.h	229;"	d
+WB_RSQ_INTERRUPT_SOURCE	propertydefs.h	200;"	d
+WB_RSQ_ISSI_HIGH_THRESHOLD	propertydefs.h	205;"	d
+WB_RSQ_ISSI_LOW_THRESHOLD	propertydefs.h	206;"	d
+WB_RSQ_RSSI_HIGH_THRESHOLD	propertydefs.h	203;"	d
+WB_RSQ_RSSI_LOW_THRESHOLD	propertydefs.h	204;"	d
+WB_RSQ_SNR_HIGH_THRESHOLD	propertydefs.h	201;"	d
+WB_RSQ_SNR_LOW_THRESHOLD	propertydefs.h	202;"	d
+WB_RSQ_STATUS	commanddefs.h	55;"	d
+WB_SAME_CONFIG	propertydefs.h	239;"	d
+WB_SAME_INTERRUPT_SOURCE	propertydefs.h	238;"	d
+WB_SAME_SOFTBYTE	commanddefs.h	61;"	d
+WB_SAME_STATUS	commanddefs.h	60;"	d
+WB_SEEK_BAND_BOTTOM	propertydefs.h	197;"	d
+WB_SEEK_BAND_TOP	propertydefs.h	198;"	d
+WB_SEEK_FREQUENCY_SPACING	propertydefs.h	199;"	d
+WB_SEEK_START	commanddefs.h	54;"	d
+WB_TUNE_FREQ	commanddefs.h	53;"	d
+WB_VALID_ISSI_THRESHOLD	propertydefs.h	217;"	d
+WB_VALID_MAX_TUNE_ERROR	propertydefs.h	212;"	d
+WB_VALID_RSSI_THRESHOLD	propertydefs.h	216;"	d
+WB_VALID_RSSI_TIME	propertydefs.h	213;"	d
+WB_VALID_SNR_THRESHOLD	propertydefs.h	215;"	d
+WB_VALID_SNR_TIME	propertydefs.h	214;"	d
+ZIF_OUTPUT_CFG	propertydefs.h	20;"	d
+ZIF_PIN_CFG	commanddefs.h	31;"	d
+_COMMAND_DEFS_H_	commanddefs.h	3;"	d
+_PROPERTY_DEFS_H_	propertydefs.h	3;"	d
+_SI475XAMRX_H_	si475xAMRX.h	9;"	d
+_SI475XFMRX_H_	si475xFMRX.h	9;"	d
+__IO_H__	io.h	2;"	d
+adjustVolume	radioManagerOld.cpp	/^int RadioManagerOld::adjustVolume(int volumeArg,int mode)$/;"	f	class:RadioManagerOld
+amRsqStatus	si475xAMRX.c	/^static void amRsqStatus(u8 attune, u8 cancel, u8 intack)$/;"	f	file:
+amSeekStart	si475xAMRX.c	/^static void amSeekStart(u8 seekUp, u8 wrap)$/;"	f	file:
+amTuneFreq	si475xAMRX.c	/^static void amTuneFreq(u16 frequency)$/;"	f	file:
+beginSearch	radioManagerOld.cpp	/^int RadioManagerOld::beginSearch(int channel)$/;"	f	class:RadioManagerOld
+beginSearch	si4754radio.cpp	/^int si4754Radio::beginSearch(int channel)$/;"	f	class:si4754Radio
+calCap	si475xFMRX.c	/^static u16   calCap=0;$/;"	v	file:
+calFmax	si475xFMRX.c	/^static u16   calFmax=0;$/;"	v	file:
+changeAM	si4754radio.cpp	/^void si4754Radio::changeAM(int channel)$/;"	f	class:si4754Radio
+changeChannel	radioManagerOld.cpp	/^int RadioManagerOld::changeChannel(int channel)$/;"	f	class:RadioManagerOld
+changeChannel	si4754radio.cpp	/^int si4754Radio::changeChannel(int channel)$/;"	f	class:si4754Radio
+changeFM	si4754radio.cpp	/^void si4754Radio::changeFM(int channel)$/;"	f	class:si4754Radio
+channelMeter	radioManagerOld.h	/^	unsigned int	channelMeter;$/;"	m	class:yuanTe::RadioManagerOld
+closeAM	si4754radio.cpp	/^void si4754Radio::closeAM(void)$/;"	f	class:si4754Radio
+closeFM	si4754radio.cpp	/^void si4754Radio::closeFM(void)$/;"	f	class:si4754Radio
+closeRadio	radioManagerOld.cpp	/^int RadioManagerOld::closeRadio()$/;"	f	class:RadioManagerOld
+closeRadio	si4754radio.cpp	/^int si4754Radio::closeRadio()$/;"	f	class:si4754Radio
+cmd	si475xAMRX.c	/^static u8 cmd[16];$/;"	v	file:
+cmd	si475xFMRX.c	/^static u8  cmd[16];$/;"	v	file:
+country_enum	si475xFMRX.c	/^typedef enum {USA, EUROPE, JAPAN} country_enum; \/\/ Could be expanded$/;"	t	typeref:enum:__anon1	file:
+currentSearchChannel	radioManagerOld.h	/^	int	currentSearchChannel;$/;"	m	class:yuanTe::RadioManagerOld
+fmRdsStatus	si475xFMRX.c	/^void fmRdsStatus(u8 intack, u8 mtfifo)$/;"	f
+fmRsqStatus	si475xFMRX.c	/^static void fmRsqStatus(u8 attune, u8 cancel, u8 intack)$/;"	f	file:
+fmSeekStart	si475xFMRX.c	/^static void fmSeekStart(u8 seekUp, u8 wrap)$/;"	f	file:
+fmTuneFreq	si475xFMRX.c	/^static void fmTuneFreq(u8 quick, u16 frequency)$/;"	f	file:
+freqSection	radioManagerOld.h	/^	char	freqSection;$/;"	m	class:yuanTe::RadioManagerOld
+g_amRssi	si475xAMRX.c	/^static u16 g_amRssi = 12;$/;"	v	file:
+g_amSnr	si475xAMRX.c	/^static u16 g_amSnr = 3;$/;"	v	file:
+g_am_patch	si475xAMRX.c	/^static u8 * g_am_patch=NULL;$/;"	v	file:
+g_am_patch_line	si475xAMRX.c	/^static u32 g_am_patch_line;$/;"	v	file:
+g_fmRssi	si475xFMRX.c	/^static u16 g_fmRssi = 12;$/;"	v	file:
+g_fmSnr	si475xFMRX.c	/^static u16 g_fmSnr = 3;$/;"	v	file:
+g_io_control_fd	io.c	/^static int g_io_control_fd=-1;$/;"	v	file:
+getIntStatus	si475x_low.c	/^u8 getIntStatus(void)$/;"	f
+getVersion	si4754radio.cpp	/^int si4754Radio::getVersion(int size,char* buf)$/;"	f	class:si4754Radio
+getVolume	radioManagerOld.cpp	/^int RadioManagerOld::getVolume()$/;"	f	class:RadioManagerOld
+io2w_init	io.c	/^int io2w_init(void)$/;"	f
+io2w_read	io.c	/^int io2w_read(u8  number_bytes, u8 *data_in)$/;"	f
+io2w_write	io.c	/^int io2w_write(u8 number_bytes, u8 *data_out)$/;"	f
+isAM	si4754radio.cpp	/^bool si4754Radio::isAM(int channel)$/;"	f	class:si4754Radio
+isFM	si4754radio.cpp	/^bool si4754Radio::isFM(int channel)$/;"	f	class:si4754Radio
+lastSearchChannel	radioManagerOld.h	/^	int	lastSearchChannel;$/;"	m	class:yuanTe::RadioManagerOld
+listenedChannel	radioManagerOld.h	/^	int	listenedChannel;$/;"	m	class:yuanTe::RadioManagerOld
+m_amRssi	si4754radio.h	/^    int m_amRssi;\/\/am信号质量$/;"	m	class:yuanTe::si4754Radio
+m_amSnr	si4754radio.h	/^    int m_amSnr;\/\/am信噪比$/;"	m	class:yuanTe::si4754Radio
+m_currentFrequency	si4754radio.h	/^    int m_currentFrequency;\/\/当前模式$/;"	m	class:yuanTe::si4754Radio
+m_fmRssi	si4754radio.h	/^    int m_fmRssi;\/\/FM信号质量$/;"	m	class:yuanTe::si4754Radio
+m_fmSnr	si4754radio.h	/^    int m_fmSnr;\/\/FM信噪比$/;"	m	class:yuanTe::si4754Radio
+m_isSearching	si4754radio.h	/^    bool m_isSearching;\/\/是否正在搜索$/;"	m	class:yuanTe::si4754Radio
+m_radioMode	si4754radio.h	/^    int m_radioMode;\/\/AM\/FM模式 或者初始化模式$/;"	m	class:yuanTe::si4754Radio
+m_voiceStatus	radioManagerOld.h	/^	char		       m_voiceStatus;$/;"	m	class:yuanTe::RadioManagerOld
+m_voiceSwithFunction	radioManagerOld.h	/^	RMVoiceSwitchFunction  m_voiceSwithFunction;$/;"	m	class:yuanTe::RadioManagerOld
+m_voiceSwithUserData	radioManagerOld.h	/^	void		      *m_voiceSwithUserData;$/;"	m	class:yuanTe::RadioManagerOld
+m_volumn	si4754radio.h	/^    int m_volumn;\/\/FM\/AM音量$/;"	m	class:yuanTe::si4754Radio
+meterIsUping	radioManagerOld.h	/^	int	meterIsUping;$/;"	m	class:yuanTe::RadioManagerOld
+mute	si4754radio.cpp	/^void si4754Radio::mute(void)$/;"	f	class:si4754Radio
+openRadio	radioManagerOld.cpp	/^int RadioManagerOld::openRadio(int frequencySection,int channel,int volumeArg)$/;"	f	class:RadioManagerOld
+openRadioAtChannel	radioManagerOld.cpp	/^int RadioManagerOld::openRadioAtChannel(int frequencySection,int channel,char searchFlag)$/;"	f	class:RadioManagerOld
+readParameterConfig	radioManagerOld.cpp	/^void RadioManagerOld::readParameterConfig( int frequencySection, int * pRssi, int * pSnr )$/;"	f	class:RadioManagerOld
+readParameterConfig	si4754radio.cpp	/^void si4754Radio::readParameterConfig(void)$/;"	f	class:si4754Radio
+readPatchFile	si4754radio.cpp	/^int si4754Radio::readPatchFile(QString fileName,unsigned char **bufOut)$/;"	f	class:si4754Radio
+rsp	si475xAMRX.c	/^static u8 rsp[16];$/;"	v	file:
+rsp	si475xFMRX.c	/^static u8  rsp[16];$/;"	v	file:
+searchAMChannel	radioManagerOld.cpp	/^void RadioManagerOld::searchAMChannel(int \/*channel*\/,char \/*searchFlag*\/)$/;"	f	class:RadioManagerOld
+searchFMChannel	radioManagerOld.cpp	/^void RadioManagerOld::searchFMChannel(int \/*channel*\/,char\/* searchFlag*\/)$/;"	f	class:RadioManagerOld
+searchNextChannel	radioManagerOld.cpp	/^void RadioManagerOld::searchNextChannel()$/;"	f	class:RadioManagerOld
+searchedChannel	radioManagerOld.h	/^	int	searchedChannel;$/;"	m	class:yuanTe::RadioManagerOld
+seekAM	si4754radio.cpp	/^int si4754Radio::seekAM(void)$/;"	f	class:si4754Radio
+seekFM	si4754radio.cpp	/^int si4754Radio::seekFM(void)$/;"	f	class:si4754Radio
+seekFd	radioManagerOld.h	/^	int 	seekFd;$/;"	m	class:yuanTe::RadioManagerOld
+selectAMChannel	radioManagerOld.cpp	/^void RadioManagerOld::selectAMChannel(int channel,char \/*searchFlag*\/)$/;"	f	class:RadioManagerOld
+selectFMChannel	radioManagerOld.cpp	/^void RadioManagerOld::selectFMChannel(int channel,char \/*searchFlag*\/)$/;"	f	class:RadioManagerOld
+setAMPatch	si475xAMRX.c	/^void setAMPatch(u8 * p)$/;"	f
+setAMPatchLine	si475xAMRX.c	/^void setAMPatchLine(u32 line)$/;"	f
+setAmSnrRssi	si475xAMRX.c	/^void setAmSnrRssi(u16 rssi,u16 snr)$/;"	f
+setFmSnrRssi	si475xFMRX.c	/^void setFmSnrRssi(u16 rssi,u16 snr)$/;"	f
+setVoiceSwitchFunction	radioManagerOld.cpp	/^void RadioManagerOld::setVoiceSwitchFunction(RMVoiceSwitchFunction \/*voiceSwithFunction*\/,void *\/*userData*\/)$/;"	f	class:RadioManagerOld
+si4754Radio	si4754radio.cpp	/^si4754Radio::si4754Radio():m_radioMode(RM_FREQ_SECTION_NULL),$/;"	f	class:si4754Radio
+si4754Radio	si4754radio.h	/^class si4754Radio:public AbstractRadio$/;"	c	namespace:yuanTe
+si475xAMRX_configure	si475xAMRX.c	/^void si475xAMRX_configure(void)$/;"	f
+si475xAMRX_general_cfg	si475xAMRX.c	/^static void si475xAMRX_general_cfg(void)$/;"	f	file:
+si475xAMRX_get_frequency	si475xAMRX.c	/^u16 si475xAMRX_get_frequency()$/;"	f
+si475xAMRX_get_rssi	si475xAMRX.c	/^u8 si475xAMRX_get_rssi()$/;"	f
+si475xAMRX_hardware_cfg	si475xAMRX.c	/^static void si475xAMRX_hardware_cfg(void)$/;"	f	file:
+si475xAMRX_initialize	si475xAMRX.c	/^void si475xAMRX_initialize(void)$/;"	f
+si475xAMRX_mute	si475xAMRX.c	/^void si475xAMRX_mute(u8 mute)$/;"	f
+si475xAMRX_output_config	si475xAMRX.c	/^void si475xAMRX_output_config(void)$/;"	f
+si475xAMRX_powerdown	si475xAMRX.c	/^void si475xAMRX_powerdown(void)$/;"	f
+si475xAMRX_powerup	si475xAMRX.c	/^void si475xAMRX_powerup(void)$/;"	f
+si475xAMRX_regional_cfg	si475xAMRX.c	/^static void si475xAMRX_regional_cfg(void)$/;"	f	file:
+si475xAMRX_seek	si475xAMRX.c	/^u8 si475xAMRX_seek(u8 seekup, u8 seekmode)$/;"	f
+si475xAMRX_sendPath	si475xAMRX.c	/^ void si475xAMRX_sendPath(void)$/;"	f
+si475xAMRX_set_volume	si475xAMRX.c	/^void si475xAMRX_set_volume(u8 volume)$/;"	f
+si475xAMRX_tune	si475xAMRX.c	/^u8 si475xAMRX_tune(u16 frequency)$/;"	f
+si475xAMSWLWRX_configure	si475xAMRX.c	/^void si475xAMSWLWRX_configure(void)$/;"	f
+si475xAMSWLWRX_initialize	si475xAMRX.c	/^void si475xAMSWLWRX_initialize(void)$/;"	f
+si475xAMSWLWRX_regional_cfg	si475xAMRX.c	/^static void si475xAMSWLWRX_regional_cfg(void)$/;"	f	file:
+si475xFMRX_configure	si475xFMRX.c	/^void si475xFMRX_configure(void)$/;"	f
+si475xFMRX_front_end_cfg	si475xFMRX.c	/^static void si475xFMRX_front_end_cfg(void)$/;"	f	file:
+si475xFMRX_general_cfg	si475xFMRX.c	/^static void si475xFMRX_general_cfg(void)$/;"	f	file:
+si475xFMRX_get_frequency	si475xFMRX.c	/^u16 si475xFMRX_get_frequency()$/;"	f
+si475xFMRX_get_rssi	si475xFMRX.c	/^u8 si475xFMRX_get_rssi()$/;"	f
+si475xFMRX_hardware_cfg	si475xFMRX.c	/^static void si475xFMRX_hardware_cfg(void)$/;"	f	file:
+si475xFMRX_initialize	si475xFMRX.c	/^void si475xFMRX_initialize(void)$/;"	f
+si475xFMRX_mute	si475xFMRX.c	/^void si475xFMRX_mute(u8 mute)$/;"	f
+si475xFMRX_output_config	si475xFMRX.c	/^void si475xFMRX_output_config(void)$/;"	f
+si475xFMRX_powerdown	si475xFMRX.c	/^void si475xFMRX_powerdown(void)$/;"	f
+si475xFMRX_powerup	si475xFMRX.c	/^void si475xFMRX_powerup(void)$/;"	f
+si475xFMRX_regional_cfg	si475xFMRX.c	/^static void si475xFMRX_regional_cfg(country_enum country)$/;"	f	file:
+si475xFMRX_seek	si475xFMRX.c	/^u8 si475xFMRX_seek(u8 seekup, u8 seekmode)$/;"	f
+si475xFMRX_set_volume	si475xFMRX.c	/^void si475xFMRX_set_volume(u8 volume)$/;"	f
+si475xFMRX_tune	si475xFMRX.c	/^u8 si475xFMRX_tune(u8 quick, u16 frequency)$/;"	f
+si475x_command	si475x_low.c	/^int si475x_command(u8 cmd_size, u8 *cmd, u8 reply_size, u8 *reply)$/;"	f
+si475x_getPartInformation	si475x_low.c	/^int si475x_getPartInformation(int size,char * buf)$/;"	f
+si475x_readStatus	si475x_low.c	/^u8 si475x_readStatus()$/;"	f
+si475x_reset	si475x_low.c	/^void si475x_reset(void)$/;"	f
+si475x_set_property	si475x_low.c	/^void si475x_set_property(u16 propNumber, u16 propValue)$/;"	f
+si475x_waitForCTS	si475x_low.c	/^void si475x_waitForCTS()$/;"	f
+si47xxAMRX_get_frequency	si47xxAMRX.c	/^u16 si47xxAMRX_get_frequency(void)$/;"	f
+si47xxAMRX_get_rssi	si47xxAMRX.c	/^u8 si47xxAMRX_get_rssi(void)$/;"	f
+si47xxAMRX_initialize	si47xxAMRX.c	/^void si47xxAMRX_initialize( int rssi, int snr )$/;"	f
+si47xxAMRX_powerdown	si47xxAMRX.c	/^void si47xxAMRX_powerdown(void)$/;"	f
+si47xxAMRX_seek	si47xxAMRX.c	/^u8  si47xxAMRX_seek(int upDown, int stopFlag)$/;"	f
+si47xxAMRX_set_volume	si47xxAMRX.c	/^void si47xxAMRX_set_volume(int volume)$/;"	f
+si47xxAMRX_tune	si47xxAMRX.c	/^void si47xxAMRX_tune(int channel)$/;"	f
+si47xxFMRX_get_frequency	si47xxFMRX.c	/^u16 si47xxFMRX_get_frequency(void)$/;"	f
+si47xxFMRX_get_rssi	si47xxFMRX.c	/^u8 si47xxFMRX_get_rssi(void)$/;"	f
+si47xxFMRX_initialize	si47xxFMRX.c	/^void si47xxFMRX_initialize( int rssi, int snr )$/;"	f
+si47xxFMRX_powerdown	si47xxFMRX.c	/^void si47xxFMRX_powerdown(void)$/;"	f
+si47xxFMRX_seek	si47xxFMRX.c	/^u8  si47xxFMRX_seek(int upDown, int stopFlag)$/;"	f
+si47xxFMRX_set_volume	si47xxFMRX.c	/^void si47xxFMRX_set_volume(int volume)$/;"	f
+si47xxFMRX_tune	si47xxFMRX.c	/^void si47xxFMRX_tune(int channel)$/;"	f
+slotSearchChannel	si4754radio.cpp	/^void si4754Radio::slotSearchChannel(void)$/;"	f	class:si4754Radio
+status	radioManagerOld.h	/^    char	status;$/;"	m	class:yuanTe::RadioManagerOld
+stopSearch	radioManagerOld.cpp	/^int RadioManagerOld::stopSearch()$/;"	f	class:RadioManagerOld
+stopSearch	si4754radio.cpp	/^int si4754Radio::stopSearch(void)$/;"	f	class:si4754Radio
+timeId	radioManagerOld.h	/^	int	timeId;$/;"	m	class:yuanTe::RadioManagerOld
+timerEvent	radioManagerOld.cpp	/^void RadioManagerOld::timerEvent(QTimerEvent *\/*event*\/)$/;"	f	class:RadioManagerOld
+unMute	si4754radio.cpp	/^void si4754Radio::unMute(void)$/;"	f	class:si4754Radio
+volume	radioManagerOld.h	/^	int	volume;$/;"	m	class:yuanTe::RadioManagerOld
+yuanTe	radioManagerOld.h	/^namespace yuanTe$/;"	n
+yuanTe	si4754radio.h	/^ namespace  yuanTe{$/;"	n
+~RadioManagerOld	radioManagerOld.cpp	/^RadioManagerOld::~RadioManagerOld()$/;"	f	class:RadioManagerOld

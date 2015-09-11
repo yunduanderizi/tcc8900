@@ -1,0 +1,3 @@
+nmea_stdlib.o: nmea_stdlib.c nmea_type.h
+
+nmea_type.h:

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText
+END
+scrollarea.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrollarea.h
+END
+scrollText.pro
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrollText.pro
+END
+scrollbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrollbar.cpp
+END
+scrolltext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrolltext.cpp
+END
+kineticscroll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/kineticscroll.cpp
+END
+scrolltextCdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrolltextCdata.h
+END
+scrollarea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrollarea.cpp
+END
+scrollbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrollbar.h
+END
+scrolltext.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/scrolltext.h
+END
+kineticscroll.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/commonUi/scrollText/kineticscroll.h
+END

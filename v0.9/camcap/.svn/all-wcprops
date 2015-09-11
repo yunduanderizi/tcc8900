@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap
+END
+Makefile.bak
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/Makefile.bak
+END
+yuv2jpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/yuv2jpg.h
+END
+rsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/rsc.h
+END
+v4l2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/v4l2.h
+END
+saclejpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/saclejpeg.c
+END
+camapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/camapp.c
+END
+camcap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/camcap.pro
+END
+saclejpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/saclejpeg.h
+END
+camapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/camapp.h
+END
+yuv2jpg.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/yuv2jpg.c
+END
+rsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/rsc.c
+END
+v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/camcap/v4l2.c
+END

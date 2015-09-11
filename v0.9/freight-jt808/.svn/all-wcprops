@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tcc890x_common/!svn/ver/1597/branches/innovbox/v0.9/freight-jt808
+END
+mangqu.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/mangqu.h
+END
+10H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/10H.h
+END
+11H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/11H.h
+END
+JT808DbusMessageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/1588/branches/innovbox/v0.9/freight-jt808/JT808DbusMessageHandler.cpp
+END
+12H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/12H.h
+END
+ConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/1406/branches/innovbox/v0.9/freight-jt808/ConnectionManager.h
+END
+13H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/13H.h
+END
+ConfigManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1539/branches/innovbox/v0.9/freight-jt808/ConfigManager.cpp
+END
+14H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/14H.h
+END
+15H.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/15H.h
+END
+JT808GnssManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1597/branches/innovbox/v0.9/freight-jt808/JT808GnssManager.cpp
+END
+JT808DbusMessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/JT808DbusMessageHandler.h
+END
+JT808DbusMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1586/branches/innovbox/v0.9/freight-jt808/JT808DbusMessage.h
+END
+ConfigManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1531/branches/innovbox/v0.9/freight-jt808/ConfigManager.h
+END
+testServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/testServer.cpp
+END
+Makefile.host
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/Makefile.host
+END
+JT808Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tcc890x_common/!svn/ver/1597/branches/innovbox/v0.9/freight-jt808/JT808Manager.cpp
+END
+JT808GnssManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tcc890x_common/!svn/ver/1588/branches/innovbox/v0.9/freight-jt808/JT808GnssManager.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/test.cpp
+END
+JT808MessageHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/1588/branches/innovbox/v0.9/freight-jt808/JT808MessageHandler.cpp
+END
+freight-jt808.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/1531/branches/innovbox/v0.9/freight-jt808/freight-jt808.pro
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tcc890x_common/!svn/ver/1187/branches/innovbox/v0.9/freight-jt808/Makefile.target
+END
+JT808MessageHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/1590/branches/innovbox/v0.9/freight-jt808/JT808MessageHelper.cpp
+END
+8H.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/8H.h
+END
+JT808MessageHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1472/branches/innovbox/v0.9/freight-jt808/JT808MessageHandler.h
+END
+9H.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1438/branches/innovbox/v0.9/freight-jt808/9H.h
+END
+JT808MessageHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tcc890x_common/!svn/ver/1584/branches/innovbox/v0.9/freight-jt808/JT808MessageHelper.h
+END
+ConnectionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tcc890x_common/!svn/ver/1584/branches/innovbox/v0.9/freight-jt808/ConnectionManager.cpp
+END
+jt808.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/1531/branches/innovbox/v0.9/freight-jt808/jt808.pro
+END

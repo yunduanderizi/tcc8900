@@ -1,0 +1,69 @@
+
+#
+# Makefile for the CAMERA Application.
+#
+#include ../../../project.mk
+
+CC			=	arm-none-linux-gnueabi-gcc
+DEL_FILE		=	rm -rf
+CFLAGS		=	-O0 -I./ -DTCC_89XX_INCLUDE -I./tcc -DCAMERA_DEVICE_N -I../../../packages/target/opencv/include/ 
+LIN		=	ln
+LIBDIR		=	camlib
+CDIR		=	mkdir
+LIB		    =	$(LIBDIR)/libcam.so.1.0.0
+LINLIB		=	$(LIBDIR)/libcam.so
+LINLIB1		=	$(LIBDIR)/libcam.so.1
+LINLIB2		=	$(LIBDIR)/libcam.so.1.0
+SRCS 		= 		cam/v4l2.c \
+					cam/camapp.c \
+					cam/rsc.c \
+					cam/yuv2jpg.c \
+					cam/saclejpeg.c \
+                    tcc/Virtual.c \
+					tcc/M2Mscaler_Video.c \
+					tcc/test_util.c \
+					tcc/sys_memory.c \
+					tcc/viqe_lib.c \
+					tcc/viqe_cmd.c \
+					tcc/matrix_inv.c \
+					tcc/gamut_main.c \
+					tcc/triangle.c 
+
+LIBS		=	-lpthread -lm -lrt -g
+
+
+#OBJS = $(SRCS:.c=.o)
+
+EXECUTABLE	= cam.so
+
+
+
+
+all:
+	$(DEL_FILE) $(LIBDIR)
+	$(CDIR)	$(LIBDIR)
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread cam/v4l2.c -o cam/v4l2.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread cam/camapp.c -o cam/camapp.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread cam/rsc.c -o cam/rsc.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/Virtual.c -o tcc/Virtual.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/M2Mscaler_Video.c -o tcc/M2Mscaler_Video.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/test_util.c -o tcc/test_util.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/sys_memory.c -o tcc/sys_memory.o
+#	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/viqe_lib.c -o tcc/viqe_lib.o
+#	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/viqe_cmd.c -o tcc/viqe_cmd.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/matrix_inv.c -o tcc/matrix_inv.o
+#	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/gamut_main.c -o tcc/gamut_main.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread tcc/triangle.c -o tcc/triangle.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread cam/yuv2jpg.c -o cam/yuv2jpg.o
+	$(CC) $(CFLAGS) -fPIC -g -c -lpthread cam/saclejpeg.c -o cam/saclejpeg.o
+	
+#	$(CC) -g  cam/v4l2.o cam/camapp.o cam/rsc.o tcc/Virtual.o tcc/M2Mscaler_Video.o tcc/test_util.o tcc/sys_memory.o tcc/matrix_inv.o tcc/triangle.o -o test -lc -pthread
+	$(CC) -g -shared -Wl,-soname,libcam.so -o $(LIB) cam/yuv2jpg.o cam/saclejpeg.o cam/v4l2.o cam/camapp.o cam/rsc.o tcc/Virtual.o tcc/M2Mscaler_Video.o tcc/test_util.o tcc/sys_memory.o tcc/matrix_inv.o tcc/triangle.o -lc
+	$(LIN) -s libcam.so.1.0.0 $(LINLIB)
+	$(LIN) -s libcam.so.1.0.0 $(LINLIB1)
+	$(LIN) -s libcam.so.1.0.0 $(LINLIB2)
+clean:
+	$(DEL_FILE) $(LIBDIR)
+	$(DEL_FILE) cam/*.o 
+	$(DEL_FILE) tcc/*.o 
+	$(DEL_FILE) *~ core *.core

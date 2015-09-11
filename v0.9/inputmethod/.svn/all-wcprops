@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/1603/branches/innovbox/v0.9/inputmethod
+END
+InputClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/InputClient.h
+END
+InputInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/1603/branches/innovbox/v0.9/inputmethod/InputInit.cpp
+END
+InputMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/InputMethod.h
+END
+libinputkernel.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/808/branches/innovbox/v0.9/inputmethod/libinputkernel.a
+END
+InputInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/InputInit.h
+END
+InputServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/InputServer.h
+END
+inputmethod.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/inputmethod/inputmethod.pro
+END

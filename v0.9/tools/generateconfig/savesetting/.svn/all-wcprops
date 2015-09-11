@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting
+END
+mainwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/mainwidget.ui
+END
+icsetting.ui
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/icsetting.ui
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/main.cpp
+END
+provinces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/provinces.xml
+END
+savesetting.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/savesetting.ui
+END
+mainwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/mainwidget.cpp
+END
+FileListUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/FileListUtil.cpp
+END
+icsetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/icsetting.cpp
+END
+savesetting.pro
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/savesetting.pro
+END
+savesetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/savesetting.cpp
+END
+mainwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/mainwidget.h
+END
+FileListUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/FileListUtil.h
+END
+icsetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/icsetting.h
+END
+savesetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tcc890x_common/!svn/ver/852/branches/innovbox/v0.9/tools/generateconfig/savesetting/savesetting.h
+END

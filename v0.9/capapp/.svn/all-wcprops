@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/capapp
+END
+capapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/capapp/capapp.cpp
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tcc890x_common/!svn/ver/1524/branches/innovbox/v0.9/capapp/main.c
+END
+rsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/1524/branches/innovbox/v0.9/capapp/rsc.c
+END
+v4l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/781/branches/innovbox/v0.9/capapp/v4l2.c
+END
+capapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/1595/branches/innovbox/v0.9/capapp/capapp.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/781/branches/innovbox/v0.9/capapp/main.h
+END
+rsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/capapp/rsc.h
+END
+v4l2.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tcc890x_common/!svn/ver/1107/branches/innovbox/v0.9/capapp/v4l2.h
+END
+capapp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/capapp/capapp.pro
+END

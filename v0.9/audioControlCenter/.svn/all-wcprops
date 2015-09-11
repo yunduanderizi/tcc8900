@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/1651/branches/innovbox/v0.9/audioControlCenter
+END
+audio_control_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tcc890x_common/!svn/ver/1651/branches/innovbox/v0.9/audioControlCenter/audio_control_client.cpp
+END
+audioControlCenter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/1363/branches/innovbox/v0.9/audioControlCenter/audioControlCenter.pro
+END
+audio_control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tcc890x_common/!svn/ver/1182/branches/innovbox/v0.9/audioControlCenter/audio_control.cpp
+END
+audio_main_volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_main_volume.h
+END
+i2ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/i2ctl.h
+END
+audio_control_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/1292/branches/innovbox/v0.9/audioControlCenter/audio_control_client.h
+END
+audio_control_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_control_message.cpp
+END
+audio_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_control.h
+END
+audio_control_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_control_server.cpp
+END
+audio_control_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_control_message.h
+END
+audio_control_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/audio_control_server.h
+END
+audio_main_volume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tcc890x_common/!svn/ver/1115/branches/innovbox/v0.9/audioControlCenter/audio_main_volume.cpp
+END
+i2ctl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/audioControlCenter/i2ctl.cpp
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm
+END
+windowManagerApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/windowManagerApp.cpp
+END
+debugMonitorMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/debugMonitorMessage.cpp
+END
+debugMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/debugMonitor.h
+END
+dbusClientProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/dbusClientProxy.h
+END
+windowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/windowManager.h
+END
+windowManagerApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/windowManagerApp.h
+END
+debugMonitorMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/debugMonitorMessage.h
+END
+i2ccontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/i2ccontrol.cpp
+END
+i2ccontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/i2ccontrol.h
+END
+WmMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/WmMessage.cpp
+END
+WmMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/WmMessage.h
+END
+debugMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/debugMonitor.cpp
+END
+dbusClientProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/dbusClientProxy.cpp
+END
+wm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/wm.pro
+END
+windowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/wm/windowManager.cpp
+END

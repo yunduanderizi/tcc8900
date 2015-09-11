@@ -1,0 +1,8 @@
+#!/bin/sh
+
+umount /nand3
+mkfs.ext3 -c -L mmc3 /dev/mmcblk0p3
+mount /dev/mmcblk0p3 /nand3
+cp -arf /application/data_backup/* /nand3
+sync
+

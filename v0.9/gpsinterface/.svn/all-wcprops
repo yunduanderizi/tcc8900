@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tcc890x_common/!svn/ver/1528/branches/innovbox/v0.9/gpsinterface
+END
+gpsinterface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/gpsinterface/gpsinterface.pro
+END
+readfence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/gpsinterface/readfence.cpp
+END
+gpsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tcc890x_common/!svn/ver/1031/branches/innovbox/v0.9/gpsinterface/gpsinterface.h
+END
+readtuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tcc890x_common/!svn/ver/1528/branches/innovbox/v0.9/gpsinterface/readtuid.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tcc890x_common/!svn/ver/748/branches/innovbox/v0.9/gpsinterface/main.cpp
+END
